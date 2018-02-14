@@ -1,0 +1,513 @@
+/* Dynamik Reset */
+#dynamik-fe-css-builder {
+	width: 630px;
+	font-size: 12px;
+	color: #333333;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	text-transform: none;
+	letter-spacing: 0;
+	line-height: 160%;
+	text-decoration: none;
+	z-index: 100004;
+}
+
+#dynamik-fe-css-builder * {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#dynamik-fe-css-builder-container,
+#dynamik-fe-css-builder-container h3,
+#dynamik-fe-css-builder-container button,
+#dynamik-fe-css-builder-container input[type="button"],
+#dynamik-fe-css-builder-container input,
+#dynamik-fe-css-builder-container select,
+#dynamik-fe-css-builder-container textarea,
+#dynamik-fe-css-builder-container p,
+#dynamik-fe-css-builder-container ul,
+#dynamik-fe-css-builder-container li,
+#dynamik-fe-css-builder-container a,
+#dynamik-fe-css-builder-container-css {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+	text-transform: none;
+	letter-spacing: normal;
+}
+
+#dynamik-fe-css-builder-container a,
+#dynamik-fe-css-builder-container a:hover {
+	border-bottom: 0;
+}
+
+#dynamik-fe-css-builder-css {
+	background: #eee;
+	border: 1px solid #ddd;
+	border-right: 0;
+	padding: 5px;
+	color: #444;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	line-height: 1.2;
+	position: fixed;
+	top: 35px;
+	right: 0;
+	cursor: pointer;
+	z-index: 100002;
+	-webkit-border-radius: 4px 0 0 4px;
+	border-radius: 4px 0 0 4px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body.dynamik-fe-css-builder button.code-builder-output-cut {
+	background: #f5f5f5;
+	border: 1px solid #ddd;
+	border-top: 0;
+	padding: 4px;
+	margin: 0;
+	width: 100%;
+	color: #666;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 1.625;
+	text-transform: none;
+	float: right;
+	-webkit-border-radius: 0 0 4px 4px;
+	border-radius: 0 0 4px 4px;
+}
+
+#dynamik-fe-css-builder p {
+	margin: 0;
+	padding: 0;
+	color: #666666;
+	font-size: 11px;
+	line-height: 1.5;
+}
+
+.dynamik-fe-css-builder-col {
+	width: 49%;
+	float: left;
+}
+
+.dynamik-fe-css-builder-col-right {
+	padding-bottom: 10px;
+	float: right;
+}
+
+#dynamik-fe-css-builder-container input,
+#dynamik-fe-css-builder-container select,
+#dynamik-fe-css-builder-container input,
+#dynamik-fe-css-builder-container select,
+#dynamik-fe-css-builder-output {
+	background: #fff;
+	border: 1px solid #ddd;
+	height: auto;
+	padding: 1px 3px;
+	font-size: 12px;
+	color: #333333;
+	font-weight: normal;
+}
+
+#dynamik-fe-css-builder-container .dropit span {
+	background: #f5f5f5;
+	border: 1px solid #ddd;
+	width: 240px;
+	height: 30px;
+	margin-right: 5px;
+	padding: 6px 40px 6px 9px;
+	content: "\f140";
+	float: left;
+	overflow: hidden;
+	cursor: pointer;
+	background-image:
+	linear-gradient(45deg, transparent 50%, gray 50%),
+	linear-gradient(135deg, gray 50%, transparent 50%),
+	linear-gradient(to right, #ccc, #ccc);
+	background-position:
+	calc(100% - 20px) calc(1em + 2px),
+	calc(100% - 15px) calc(1em + 2px),
+	calc(100% - 3.5em) 0.5em;
+	background-size:
+	5px 5px,
+	5px 5px,
+	1px 1.5em;
+	background-repeat: no-repeat;
+}
+
+#dynamik-fe-css-builder-container .dropit-submenu {
+	background: #f5f5f5;
+	border: 1px solid #ddd;
+	width: 240px;
+	max-height: 245px;
+	margin-top: 29px;
+	padding: 0;
+	overflow: hidden;
+	overflow-y: auto;
+}
+
+#dynamik-fe-css-builder-container .dropit-submenu li {
+	padding: 6px 9px;
+}
+
+#dynamik-fe-css-builder-container .dropit-submenu li:hover {
+	background: #eee;
+	cursor: pointer;
+}
+
+#dynamik-fe-css-builder-container input[type=text] {
+	height: 22px;
+	display: inline-block;
+}
+
+#dynamik-fe-css-builder-output {
+	width: 100%;
+	height: 255px;
+	margin: 0;
+	font-size: 13px !important;
+	line-height: normal !important;
+	float: left;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+#dynamik-fe-css-builder-container input[type=text] {
+	padding: 2px 3px;
+}
+
+input.dynamik-fe-css-builder-button,
+input.dynamik-fe-css-builder-button-bgs,
+input.dynamik-fe-css-builder-button-elements {
+	background: #FFFFFF !important;
+	border: 1px solid #BBBBBB !important;
+	margin-bottom: 3px !important;
+	padding: 2px 0 !important;
+	color: #333333 !important;
+	font-size: 12px !important;
+	line-height: 1.4 !important;
+	cursor: pointer !important;
+}
+
+input.dynamik-fe-css-builder-button:hover,
+input.dynamik-fe-css-builder-button-bgs:hover,
+input.dynamik-fe-css-builder-button-elements:hover {
+	border: 1px solid #666666 !important;
+}
+
+input.dynamik-fe-css-builder-buttons {
+	background: #F5F5F5 !important;
+	border: 1px solid #DDDDDD !important;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+input.dynamik-fe-css-builder-buttons:hover {
+	background: #FFFFFF !important;
+	border: 1px solid #DDDDDD !important;
+}
+
+#dynamik-fe-css-builder-col-container {
+	background: #FFFFFF;
+	border: 1px solid #ddd;
+	border-top: 0;
+	width: 100%;
+	padding: 10px 10px 0;
+	float: left;
+}
+
+#dynamik-fe-css-builder h3 {
+	background: #F5F5F5;
+	border: 1px solid #ddd;
+	border-bottom: 1px solid #eee;
+	width: 100%;
+	height: 26px;
+	font-size: 13px;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	line-height: 160%;
+	clear: both;
+	-webkit-border-radius: 4px 4px 0 0;
+	border-radius: 4px 4px 0 0;
+}
+
+body.dynamik-fe-css-builder-active .element-labels {
+	background: #0073AA;
+	width: auto;
+	height: auto;
+	padding: 5px;
+	color: #fff;
+	font-size: 18px;
+	font-weight: normal;
+	position: absolute;
+	cursor: pointer;
+	z-index: 100003;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+body.dynamik-fe-css-builder-active .element-labels.element-label-left {
+	top: 2px;
+	left: 2px;	
+}
+
+body.dynamik-fe-css-builder-active .element-labels.element-label-right {
+	top: 2px;
+	right: 2px;	
+}
+
+.all-labeled-elements {
+	display: none;
+}
+
+#page_elements {
+	display: block;
+}
+
+.dynamik-fe-css-builder-draggable {
+	margin-top: -165px;
+	margin-left: -315px;
+	float: left;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	z-index: 100004;
+}
+
+.dynamik-fe-css-builder-draggable h3 {
+	cursor: move;
+}
+
+#dynamik-fe-css-builder-col-container {
+	width: 100%;
+	margin: 0;
+	float: left;
+}
+
+.dynamik-fe-css-builder-all-css-builder {
+	height: 266px;
+	display: none;
+}
+
+.dynamik-fe-css-builder-options-box {
+	background: #F6F6F6;
+	border: 1px solid #E8E8E8;
+	margin-bottom: 10px;
+	padding: 8px;
+}
+
+#dynamik-fe-css-builder-nav {
+	background: #f5f5f5;
+	border: 1px solid #ddd;
+	border-top: 0;
+	width: 100%;
+	height: 26px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	line-height: 26px;
+	float: left;
+}
+
+#dynamik-fe-css-builder-nav ul,
+#dynamik-fe-css-builder-nav li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+	list-style: none;
+}
+
+#dynamik-fe-css-builder-nav li a,
+#dynamik-fe-css-builder-nav li a:link,
+#dynamik-fe-css-builder-nav li a:visited {
+	border: 0;
+	margin: 0;
+	padding: 2px 5px;
+	font-size: 11px;
+	color: #666;
+	font-weight: normal;
+	cursor: pointer;
+	text-decoration: none !important;
+}
+
+#dynamik-fe-css-builder-nav li a:hover,
+#dynamik-fe-css-builder-nav li a:active {
+	color: #2EA2CC;
+}
+
+#dynamik-fe-css-builder-nav li a.dynamik-fe-css-builder-options-nav-last {
+	background: none !important;
+}
+
+#dynamik-fe-css-builder-nav li.dynamik-fe-css-builder-options-nav-active a {
+	color: #2EA2CC !important;
+	text-decoration: none !important;
+}
+
+#dynamik-fe-css-builder-nav li#dynamik-fe-css-builder-nav-open-close-elements a,
+#dynamik-fe-css-builder-nav li#dynamik-fe-css-builder-nav-open-close-elements a:link,
+#dynamik-fe-css-builder-nav li#dynamik-fe-css-builder-nav-open-close-elements a:visited {
+	background: #888 !important;
+	margin: 0;
+	padding: 7px;
+	color: #FFFFFF !important;
+	text-decoration: none !important;
+}
+
+#dynamik-fe-css-builder-nav li#dynamik-fe-css-builder-nav-open-close-elements a:hover,
+#dynamik-fe-css-builder-nav li#dynamik-fe-css-builder-nav-open-close-elements a:active,
+#dynamik-fe-css-builder-nav li#dynamik-fe-css-builder-nav-open-close-elements.dynamik-fe-css-builder-options-nav-active a {
+	background: #444 !important;
+	text-decoration: none !important;
+}
+
+input.dynamik-fe-css-builder-element[type="button"],
+textarea.dynamik-fe-css-builder-element {
+	width: 100%;
+	letter-spacing: 0;
+	text-transform: none;
+	-webkit-box-shadow: 0 0 0 #FFFFFF;
+	box-shadow: 0 0 0 #FFFFFF;
+}
+
+textarea.dynamik-fe-css-builder-element {
+	color: #333333;
+	font: -webkit-small-control;
+	letter-spacing: normal;
+	word-spacing: normal;
+	text-transform: none;
+	text-indent: 0px;
+	display: inline-block;
+	text-align: -webkit-auto;
+}
+
+.dynamik-fe-css-builder-element {
+	text-shadow: none !important;
+	opacity: 1 !important;
+	filter: alpha(opacity=100) !important;
+    -webkit-box-sizing: content-box;
+	box-sizing: content-box;
+}
+
+textarea.dynamik-fe-css-builder-element,
+input.dynamik-fe-css-builder-element {
+    -webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+input.dynamik-fe-css-builder-button[type="button"] {
+	width: 180px;
+}
+
+#dynamik-fe-css-builder-container input.color {
+	width: auto;
+}
+
+.dynamik-fe-css-builder-elements-select,
+.dynamik-fe-css-builder-elements-select-ul {
+	width: 280px;
+	margin-bottom: 5px;
+}
+
+input.dynamik-fe-css-builder-button-bgs[type="button"] {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.dynamik-fe-css-builder-button-elements {
+	width: 25px;
+}
+
+#dynamik-fe-css-builder-container p.dynamik-fe-css-builder-info {
+	padding: 10px 0 0;
+	color: #bbb;
+	font-size: 14px;
+	font-style: italic;
+	float: left;
+}
+
+#dynamik-fe-css-builder-container p.dynamik-fe-css-builder-info a {
+	color: #bbb;
+	text-decoration: none;
+}
+
+#dynamik-fe-css-builder-container p.dynamik-fe-css-builder-info a:hover {
+	text-decoration: underline;
+}
+
+#dynamik-fe-css-builder-style-editor-toggle-icon {
+	display: none;
+}
+
+body.dynamik-fe-style-editor #dynamik-fe-css-builder-style-editor-toggle-icon,
+.dynamik-fe-css-builder-options-display {
+	display: block;
+}
+
+.color-box-150 {
+	width: 102px;
+}
+
+.dynamik-fe-css-builder-font-options-width-control {
+	width: 110px;
+}
+
+select#page_elements_list,
+#dynamik-fe-css-builder-container .dynamik-fe-css-builder-elements-select {
+	width: 230px;
+	background: #eee;
+	border: 1px solid #ddd;
+	margin: 0;
+	padding: 3px;
+	font-size: 12px;
+}
+
+.dynamik-fe-css-builder-icons.dashicons {
+	width: 20px;
+	height: 20px;
+	padding-top: 3px;
+	padding-right: 23px;
+	color: #666;
+	font-size: 20px;
+	cursor: pointer;
+	float: right;
+}
+
+.dynamik-fe-css-builder-icons.dashicons:hover {
+	color: #2EA2CC;
+}
+
+body.override .dynamik-mapped-hooks-styles {
+	width: 100%;
+	background: #0073AA;
+	border-bottom: 1px solid #006899;
+	padding: 5px;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	clear: both;
+}
+
+#css-builder-hooks-map {
+	background: #0073AA;
+	position: fixed;
+	bottom: 100px;
+	right: 0px;
+	cursor: pointer;
+	z-index: 100002;
+	-webkit-border-radius: 4px 0 0 4px;
+	border-radius: 4px 0 0 4px;
+	-webkit-box-shadow: 0 0 3px #666;
+	box-shadow: 0 0 3px #666;
+}
+
+#css-builder-hooks-map .dashicons {
+	padding: 5px;
+	color: #fff;
+	font-size: 20px;
+}

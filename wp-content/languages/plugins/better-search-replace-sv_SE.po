@@ -1,0 +1,248 @@
+# Translation of Plugins - Better Search Replace - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Better Search Replace - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-08 16:28:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Better Search Replace - Development (trunk)\n"
+
+#: templates/bsr-dashboard.php:115
+msgid "You'll also receive our awesome weekly posts from the Delicious Brains blog. Unsubscribe anytime."
+msgstr "Du får också våra fantastiska veckovisa inlägg från Delicious Brains bloggen. Avsluta prenumerationen när som helst."
+
+#: templates/bsr-dashboard.php:126
+msgid "via WordPress.org"
+msgstr "via WordPress.org"
+
+#: templates/bsr-dashboard.php:111
+msgid "Send me the coupon"
+msgstr "Skicka kupongen till mig"
+
+#: templates/bsr-dashboard.php:104
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: templates/bsr-dashboard.php:100
+msgid "First Name"
+msgstr "Förnamn"
+
+#: templates/bsr-dashboard.php:96
+msgid "Your Email"
+msgstr "Din e-postadress"
+
+#: templates/bsr-dashboard.php:92
+msgid "Submit your name and email and we'll send you a coupon for 20% off your upgrade to the pro version."
+msgstr "Ge oss ditt namn och din e-postadress så skickar vi en rabattkupong för 20 % rabatt på uppgraderingen till pro-versionen."
+
+#: templates/bsr-dashboard.php:87
+msgid "20% Off!"
+msgstr "20 % rabatt!"
+
+#: templates/bsr-dashboard.php:79
+msgid "Detailed report of exactly what was replaced"
+msgstr "Detaljerad rapport om exakt vad som har ersatts"
+
+#: templates/bsr-dashboard.php:78
+msgid "Import an SQL file and run a find/replace on it"
+msgstr "Importera en SQL-fil och kör sök och ersätt på den"
+
+#: templates/bsr-dashboard.php:77
+msgid "Backup to an SQL file"
+msgstr "Säkerhetskopiera en SQL-fil"
+
+#. Author of the plugin/theme
+msgid "Delicious Brains"
+msgstr "Delicious Brains"
+
+#. #-#-#-#-#  better-search-replace-code.pot (Better Search Replace 1.3.2) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  better-search-replace-code.pot (Better Search Replace 1.3.2) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://bettersearchreplace.com"
+msgstr "https://bettersearchreplace.com"
+
+#: includes/class-bsr-admin.php:233
+msgid "seconds"
+msgstr "sekunder"
+
+#: includes/class-bsr-ajax.php:155
+msgid "Processing table %d of %d: %s"
+msgstr "Bearbetar tabell %d av %d: %s"
+
+#: includes/class-bsr-admin.php:73
+msgid "Processing..."
+msgstr "Laddar..."
+
+#. Description of the plugin/theme
+msgid "A small plugin for running a search/replace on your WordPress database."
+msgstr "Ett litet tillägg för att köra sök/ersätt på din WordPress-databas."
+
+#: templates/bsr-settings.php:33
+msgid "If you're noticing timeouts or getting a white screen while running a search replace, try decreasing this value."
+msgstr "Om du får timeout eller vit skärm när du kör sök/ersätt kan du prova att minska detta värde."
+
+#: templates/bsr-settings.php:31
+msgid "Current Setting: "
+msgstr "Nuvarande värde:"
+
+#: templates/bsr-settings.php:27
+msgid "Max Page Size"
+msgstr "Max Page Size"
+
+#: templates/bsr-search-replace.php:76
+msgid "Run Search/Replace"
+msgstr "Kör sök/ersätt"
+
+#: templates/bsr-search-replace.php:65
+msgid "If checked, no changes will be made to the database, allowing you to check the results beforehand."
+msgstr "Om alternativet har valts görs inga ändringar i databasen, detta låter dig kontrollera resultatet i förväg."
+
+#: templates/bsr-search-replace.php:62
+msgid "Run as dry run?"
+msgstr "Vill du provköra kommandot utan att ändra något?"
+
+#: templates/bsr-search-replace.php:57
+msgid "If left unchecked, all database columns titled 'guid' will be skipped."
+msgstr "Om rutan inte markerats kommer att kolumner med rubriken ”guid” att hoppas över."
+
+#: templates/bsr-search-replace.php:54
+msgid "Replace GUIDs<a href=\"http://codex.wordpress.org/Changing_The_Site_URL#Important_GUID_Note\" target=\"_blank\">?</a>"
+msgstr "Om att ersätta GUID<a href=\"http://codex.wordpress.org/Changing_The_Site_URL#Important_GUID_Note\" target=\"_blank\">?</a>"
+
+#: templates/bsr-search-replace.php:49
+msgid "Searches are case-sensitive by default."
+msgstr "Som standard är sökningarna skiftlägeskänsliga."
+
+#: templates/bsr-search-replace.php:46
+msgid "Case-Insensitive?"
+msgstr "Ignorera skiftläge?"
+
+#: templates/bsr-search-replace.php:41
+msgid "Select multiple tables with Ctrl-Click for Windows or Cmd-Click for Mac."
+msgstr "Välj flera tabeller med hjälp av Ctrl-klick (Windows) eller Cmd-klick (Mac)."
+
+#: templates/bsr-search-replace.php:38
+msgid "Select tables"
+msgstr "Välj tabeller"
+
+#: templates/bsr-search-replace.php:33
+msgid "Replace with"
+msgstr "Ersätt med"
+
+#: templates/bsr-search-replace.php:28
+msgid "Search for"
+msgstr "Sök efter"
+
+#: templates/bsr-search-replace.php:23
+msgid "<strong>WARNING:</strong> Make sure you backup your database before using this plugin!"
+msgstr "<strong>VARNING:</strong> Se till att du har gjort säkerhetskopierat databasen innan du använder detta tillägg!"
+
+#: templates/bsr-search-replace.php:22
+msgid "To get started, use the form below to enter the text to be replaced and select the tables to update."
+msgstr "Börja med att i formuläret nedan skriva in texten som ska ersättas och välja vilka tabeller som ska uppdateras."
+
+#: templates/bsr-search-replace.php:21
+msgid "This tool allows you to search and replace text in your database (supports serialized arrays and objects)."
+msgstr "Detta verktyg låter dig söka och ersätta text i din databas (stöd ingår för seriellt kodade matriser och objekt)."
+
+#: templates/bsr-help.php:29
+msgid "Download System Info"
+msgstr "Ladda ned systeminformation"
+
+#: templates/bsr-help.php:23
+msgid "Found a bug or have a feature request? Please submit an issue on <a href=\"%s\">GitHub</a>!"
+msgstr "Har du hittat ett fel eller vill föreslå en ny finess? Skapa ett ärende på <a href=\"%s\">GitHub</a>!"
+
+#: templates/bsr-help.php:21
+msgid "For premium features and priority email support, <a href=\"%s\" style=\"font-weight:bold;\">upgrade to pro</a>."
+msgstr "För att få premiumfunktioner och prioriterad support via e-post kan du <a href=\"%s\" style=\"font-weight:bold;\">uppgradera till pro</a>."
+
+#: templates/bsr-help.php:19
+msgid "Free support is available on the <a href=\"%s\">plugin support forums</a>."
+msgstr "Fri support finns i <a href=\"%s\">supportforumen för tillägg</a>."
+
+#: templates/bsr-help.php:17
+msgid "Help & Troubleshooting"
+msgstr "Hjälp och felsökning"
+
+#: templates/bsr-dashboard.php:48
+msgid "Help"
+msgstr "Hjälp"
+
+#: templates/bsr-dashboard.php:47
+msgid "Settings"
+msgstr "Inställningar"
+
+#: templates/bsr-dashboard.php:46
+msgid "Search/Replace"
+msgstr "Sök/ersätt"
+
+#: includes/class-bsr-db.php:285
+msgid "Error updating row: %d."
+msgstr "Fel vid ändring av rad: %d."
+
+#: includes/class-bsr-db.php:85
+msgid "(%s MB)"
+msgstr "(%s MB)"
+
+#: includes/class-bsr-admin.php:287 templates/bsr-dashboard.php:74
+msgid "Upgrade to Pro"
+msgstr "Uppgradera till Pro"
+
+#: includes/class-bsr-admin.php:242
+msgid "Learn more about the pro version"
+msgstr "Läs om pro-versionen"
+
+#: includes/class-bsr-admin.php:241
+msgid "Want even more details, easy database migrations, and saved search/replace profiles?"
+msgstr "Vill du ha ännu mer information, enkel databasmigrering och kunna spara profiler för sök/ersätt?"
+
+#: includes/class-bsr-admin.php:212
+msgid "Time"
+msgstr "Tid"
+
+#: includes/class-bsr-admin.php:212
+msgid "Rows Updated"
+msgstr "Ändrade rader"
+
+#: includes/class-bsr-admin.php:212
+msgid "Changes Found"
+msgstr "Upptäckta redigeringar"
+
+#: includes/class-bsr-admin.php:212
+msgid "Table"
+msgstr "Tabell"
+
+#: includes/class-bsr-admin.php:112
+msgid "<p>During the search/replace, <strong>%d</strong> tables were searched, with <strong>%d</strong> cells changed in <strong>%d</strong> updates.</p><p><a href=\"%s\" class=\"thickbox\" title=\"Search/Replace Details\">Click here</a> for more details.</p>"
+msgstr "<p>Vid sök/ersätt har <strong>%d</strong> tabeller genomsökts och <strong>%d</strong> celler ändrats med <strong>%d</strong> redigeringar.</p><p><a href=\"%s\" class=\"thickbox\" title=\"Information om sök/ersätt\">Klicka här</a> för ytterligare information.</p>"
+
+#: includes/class-bsr-admin.php:105
+msgid "<p><strong>DRY RUN:</strong> <strong>%d</strong> tables were searched, <strong>%d</strong> cells were found that need to be updated, and <strong>%d</strong> changes were made.</p><p><a href=\"%s\" class=\"thickbox\" title=\"Dry Run Details\">Click here</a> for more details, or use the form below to run the search/replace.</p>"
+msgstr "<p><strong>PROVKÖRNING:</strong> <strong>%d</strong> tabeller genomsöktes, <strong>%d</strong> celler hittades som behöver ändras och <strong>%d</strong> ändringar har gjorts.</p><p><a href=\"%s\" class=\"thickbox\" title=\"Provkörningsuppgifter\">Klicka här</a> för ytterligare information eller använd formuläret nedan för att köra detta sök/ersätt-kommando.</p>"
+
+#. #-#-#-#-#  better-search-replace-code.pot (Better Search Replace 1.3.2) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-bsr-admin.php:85 templates/bsr-dashboard.php:34
+msgid "Better Search Replace"
+msgstr "Better Search Replace"
+
+#: includes/class-bsr-admin.php:72
+msgid "An error occurred processing your request. Try decreasing the \"Max Page Size\", or contact support."
+msgstr "Ett fel inträffade under bearbetningen av din begäran. Försök att minska ”Max Page Size” eller kontakta supporten."
+
+#: includes/class-bsr-admin.php:71
+msgid "Please select the tables that you want to update."
+msgstr "Välj vilka tabeller du vill uppdatera."
+
+#: includes/class-bsr-admin.php:70
+msgid "No search string was defined, please enter a URL or string to search for."
+msgstr "Ingen söksträng angiven, skriv in en URL eller sträng att söka efter."

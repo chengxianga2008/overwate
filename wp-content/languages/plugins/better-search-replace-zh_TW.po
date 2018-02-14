@@ -1,0 +1,248 @@
+# Translation of Plugins - Better Search Replace - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Better Search Replace - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-04 07:15:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Better Search Replace - Development (trunk)\n"
+
+#: templates/bsr-dashboard.php:115
+msgid "You'll also receive our awesome weekly posts from the Delicious Brains blog. Unsubscribe anytime."
+msgstr "之後你也會每週收到來自開發者 Delicious Brains 部落格的優質文章，並可隨時取消訂閱。"
+
+#: templates/bsr-dashboard.php:126
+msgid "via WordPress.org"
+msgstr "透過 WordPress.org"
+
+#: templates/bsr-dashboard.php:111
+msgid "Send me the coupon"
+msgstr "將優惠券傳送給我"
+
+#: templates/bsr-dashboard.php:104
+msgid "Last Name"
+msgstr "姓氏"
+
+#: templates/bsr-dashboard.php:100
+msgid "First Name"
+msgstr "名字"
+
+#: templates/bsr-dashboard.php:96
+msgid "Your Email"
+msgstr "你的電子郵件"
+
+#: templates/bsr-dashboard.php:92
+msgid "Submit your name and email and we'll send you a coupon for 20% off your upgrade to the pro version."
+msgstr "回傳姓名及電子郵件後，將可獲得升級至 Pro 版的八折優惠券。"
+
+#: templates/bsr-dashboard.php:87
+msgid "20% Off!"
+msgstr "八折優惠！"
+
+#: templates/bsr-dashboard.php:79
+msgid "Detailed report of exactly what was replaced"
+msgstr "列出取代項目的詳細報告"
+
+#: templates/bsr-dashboard.php:78
+msgid "Import an SQL file and run a find/replace on it"
+msgstr "匯入 SQL 檔，並在其中直接進行搜尋/取代作業"
+
+#: templates/bsr-dashboard.php:77
+msgid "Backup to an SQL file"
+msgstr "將資料庫內容備份為 SQL 檔案"
+
+#. Author of the plugin/theme
+msgid "Delicious Brains"
+msgstr "Delicious Brains"
+
+#. #-#-#-#-#  better-search-replace-code.pot (Better Search Replace 1.3.2) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  better-search-replace-code.pot (Better Search Replace 1.3.2) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://bettersearchreplace.com"
+msgstr "https://bettersearchreplace.com"
+
+#: includes/class-bsr-admin.php:233
+msgid "seconds"
+msgstr "秒"
+
+#: includes/class-bsr-ajax.php:155
+msgid "Processing table %d of %d: %s"
+msgstr "正在處理第 %d 張資料表 (總計 %d 張資料表): %s"
+
+#: includes/class-bsr-admin.php:73
+msgid "Processing..."
+msgstr "處理中..."
+
+#. Description of the plugin/theme
+msgid "A small plugin for running a search/replace on your WordPress database."
+msgstr "這個外掛能在 WordPress 網站資料庫中進行搜尋/取代作業。繁體中文本地化由「<a href=\"https://www.alexclassroom.com/\" target=\"_blank\">阿力獅的教室</a>」站長<a href=\"https://www.facebook.com/captain.alexlion\" target=\"_blank\">阿力獅</a>提供。"
+
+#: templates/bsr-settings.php:33
+msgid "If you're noticing timeouts or getting a white screen while running a search replace, try decreasing this value."
+msgstr "如果發生逾時或執行搜尋/取代作業時產生空白畫面，請試著調降這項設定值。"
+
+#: templates/bsr-settings.php:31
+msgid "Current Setting: "
+msgstr "目前設定: "
+
+#: templates/bsr-settings.php:27
+msgid "Max Page Size"
+msgstr "同時處理頁面最大值"
+
+#: templates/bsr-search-replace.php:76
+msgid "Run Search/Replace"
+msgstr "執行搜尋/取代"
+
+#: templates/bsr-search-replace.php:65
+msgid "If checked, no changes will be made to the database, allowing you to check the results beforehand."
+msgstr "啟用這項設定後，執行搜尋/取代作業不會對資料庫進行任何變更，讓你預先檢查搜尋結果。"
+
+#: templates/bsr-search-replace.php:62
+msgid "Run as dry run?"
+msgstr "執行模擬作業"
+
+#: templates/bsr-search-replace.php:57
+msgid "If left unchecked, all database columns titled 'guid' will be skipped."
+msgstr "如未啟用這項設定，取代作業會略過資料庫中所有名稱為 guid 的資料行。"
+
+#: templates/bsr-search-replace.php:54
+msgid "Replace GUIDs<a href=\"http://codex.wordpress.org/Changing_The_Site_URL#Important_GUID_Note\" target=\"_blank\">?</a>"
+msgstr "在 GUID 資料行中進行取代 (<a href=\"https://codex.wordpress.org/Changing_The_Site_URL#Important_GUID_Note\" target=\"_blank\">說明</a>)"
+
+#: templates/bsr-search-replace.php:49
+msgid "Searches are case-sensitive by default."
+msgstr "搜尋字串預設為區分大小寫。啟用這項設定後，搜尋字串設定變更為<strong>不</strong>區分大小寫。"
+
+#: templates/bsr-search-replace.php:46
+msgid "Case-Insensitive?"
+msgstr "不區分大小寫"
+
+#: templates/bsr-search-replace.php:41
+msgid "Select multiple tables with Ctrl-Click for Windows or Cmd-Click for Mac."
+msgstr "在 Windows 中先按住 CTRL 或在 macOS 中先按住 CMD 再加以點選，便可選取多個資料表。"
+
+#: templates/bsr-search-replace.php:38
+msgid "Select tables"
+msgstr "選擇資料表"
+
+#: templates/bsr-search-replace.php:33
+msgid "Replace with"
+msgstr "取代為"
+
+#: templates/bsr-search-replace.php:28
+msgid "Search for"
+msgstr "搜尋字串"
+
+#: templates/bsr-search-replace.php:23
+msgid "<strong>WARNING:</strong> Make sure you backup your database before using this plugin!"
+msgstr "<strong>警告</strong>: 在執行取代作業前，請先備份網站資料庫！"
+
+#: templates/bsr-search-replace.php:22
+msgid "To get started, use the form below to enter the text to be replaced and select the tables to update."
+msgstr "使用方式很簡單，在下方表單中輸入需要進行取代的文字，並選擇要進行更新的資料表。"
+
+#: templates/bsr-search-replace.php:21
+msgid "This tool allows you to search and replace text in your database (supports serialized arrays and objects)."
+msgstr "這個外掛能讓你在網站資料庫中進行字串搜尋及取代，並支援序列化陣列及物件。"
+
+#: templates/bsr-help.php:29
+msgid "Download System Info"
+msgstr "下載系統資訊"
+
+#: templates/bsr-help.php:23
+msgid "Found a bug or have a feature request? Please submit an issue on <a href=\"%s\">GitHub</a>!"
+msgstr "找到程式錯誤或有新功能需求嗎？請在 <a href=\"%s\">GitHub</a> 上提出你的意見 (在 GitHub 上稱為 Issue)！"
+
+#: templates/bsr-help.php:21
+msgid "For premium features and priority email support, <a href=\"%s\" style=\"font-weight:bold;\">upgrade to pro</a>."
+msgstr "如需進階功能及幽現電子郵件技術支援，請<a href=\"%s\" style=\"font-weight:bold;\">升級至 Pro 版</a>。"
+
+#: templates/bsr-help.php:19
+msgid "Free support is available on the <a href=\"%s\">plugin support forums</a>."
+msgstr "這個外掛的<a href=\"%s\">技術支援論壇</a>提供免費技術支援。"
+
+#: templates/bsr-help.php:17
+msgid "Help & Troubleshooting"
+msgstr "說明及疑難排解"
+
+#: templates/bsr-dashboard.php:48
+msgid "Help"
+msgstr "說明"
+
+#: templates/bsr-dashboard.php:47
+msgid "Settings"
+msgstr "設定"
+
+#: templates/bsr-dashboard.php:46
+msgid "Search/Replace"
+msgstr "搜尋/取代"
+
+#: includes/class-bsr-db.php:285
+msgid "Error updating row: %d."
+msgstr "更新資料格錯誤: %d。"
+
+#: includes/class-bsr-db.php:85
+msgid "(%s MB)"
+msgstr "(%s MB)"
+
+#: includes/class-bsr-admin.php:287 templates/bsr-dashboard.php:74
+msgid "Upgrade to Pro"
+msgstr "升級至 Pro 版"
+
+#: includes/class-bsr-admin.php:242
+msgid "Learn more about the pro version"
+msgstr "了解更多關於 Pro 版的資訊"
+
+#: includes/class-bsr-admin.php:241
+msgid "Want even more details, easy database migrations, and saved search/replace profiles?"
+msgstr "需要更詳細的資料、簡易資料庫移轉，以及儲存搜尋/取代設定檔嗎？"
+
+#: includes/class-bsr-admin.php:212
+msgid "Time"
+msgstr "處理時間"
+
+#: includes/class-bsr-admin.php:212
+msgid "Rows Updated"
+msgstr "已更新的資料格數量"
+
+#: includes/class-bsr-admin.php:212
+msgid "Changes Found"
+msgstr "變更數量"
+
+#: includes/class-bsr-admin.php:212
+msgid "Table"
+msgstr "資料表"
+
+#: includes/class-bsr-admin.php:112
+msgid "<p>During the search/replace, <strong>%d</strong> tables were searched, with <strong>%d</strong> cells changed in <strong>%d</strong> updates.</p><p><a href=\"%s\" class=\"thickbox\" title=\"Search/Replace Details\">Click here</a> for more details.</p>"
+msgstr "<p>進行搜尋/取代作業後，已在 <strong>%d</strong> 張資料表中進行搜尋，更新了 <strong>%d</strong> 筆資料，這些變更發生於 <strong>%d</strong> 個資料格中。</p><p><a href=\"%s\" class=\"thickbox\" title=\"搜尋/取代詳細資料\">按一下這裡</a>以檢視詳細資料。</p>"
+
+#: includes/class-bsr-admin.php:105
+msgid "<p><strong>DRY RUN:</strong> <strong>%d</strong> tables were searched, <strong>%d</strong> cells were found that need to be updated, and <strong>%d</strong> changes were made.</p><p><a href=\"%s\" class=\"thickbox\" title=\"Dry Run Details\">Click here</a> for more details, or use the form below to run the search/replace.</p>"
+msgstr "<p><strong>模擬作業</strong>: 已在 <strong>%d</strong> 張資料表中進行搜尋，其中有 <strong>%d</strong> 筆字串需要更新，目前已完成 <strong>%d</strong> 個資料格變更。</p><p><a href=\"%s\" class=\"thickbox\" title=\"Dry Run Details\">按一下這裡</a>以檢視詳細資料，或填寫下方表單以進行搜尋/取代。</p>"
+
+#. #-#-#-#-#  better-search-replace-code.pot (Better Search Replace 1.3.2) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-bsr-admin.php:85 templates/bsr-dashboard.php:34
+msgid "Better Search Replace"
+msgstr "Better Search Replace"
+
+#: includes/class-bsr-admin.php:72
+msgid "An error occurred processing your request. Try decreasing the \"Max Page Size\", or contact support."
+msgstr "處理作業要求時發生錯誤。請調降 [同時處理頁面最大值] 設定或尋求技術支援。"
+
+#: includes/class-bsr-admin.php:71
+msgid "Please select the tables that you want to update."
+msgstr "請選擇需要更新的資料表。"
+
+#: includes/class-bsr-admin.php:70
+msgid "No search string was defined, please enter a URL or string to search for."
+msgstr "你尚未輸入搜尋字串，請在 [搜尋字串] 欄位中輸入網址或字串。"

@@ -1,0 +1,391 @@
+== 1.2.8 ==
+Release date: June 19, 2017
+* Enhancement: Icon can now be removable in Announcement Bar module
+* Enhancement: Added filter pp_cg_loop_settings in Content Grid module
+* Enhancement: Added action pp_cg_loop_settings_before_form in Content Grid module
+* Enhancement: Added action pp_cg_loop_settings_after_form in Content Grid module
+* Enhancement: Added Full Content option in Content Grid module
+* Enhancement: Added meta separator field in Content Grid module
+* Enhancement: Added filter pp_tiles_loop_settings in Content Tiles module
+* Enhancement: Added action pp_tiles_loop_settings_before_form in Content Tiles module
+* Enhancement: Added action pp_tiles_loop_settings_after_form in Content Tiles module
+* Enhancement: Added dots ... at the end of the limited post description in Content Grid module
+* Enhancement: Modal Box can now be opened via URL
+* Enhancement: Added content alignment option in InfoBox module
+* Enhancement: Added No Icon layout type in InfoBox module
+* Enhancement: Added an option to choose the image size between default and custom in InfoBox module
+* Enhancement: Added custom height option for input fields in Gravity Forms module
+* Enhancement: Added field connection in Social Icons module
+* Fix: Query filters JS toggle issue in Content Grid
+* Fix: Removed "Link" option from Content Grid to fix the link issue on some server
+* Fix: Layout break when using saved templates in Modal Box
+* Fix: Sub labels were not hiding when labels are turned off in Gravity Forms module
+* Fix: Minor CSS issues in Gravity Forms module
+* Fix: Unable to remove post meta text color in Content Grid module
+* Fix: Parent column round corners CSS was applying to child column
+* Fix: Beaver Themer layout break when using Content Tiles due to wp_reset_query()
+
+== 1.2.7 ==
+Release date: May 25, 2017
+* Fix: Links not working in Content Grid module after updating to 1.2.6
+* Fix: Font size CSS output for post title in Content Grid module
+* Fix: WooCommerce deprecated functions in Content Grid
+* Fix: Removed default colors in Smart Heading module
+* Fix: Minor CSS errors in all form modules
+
+== 1.2.6 ==
+Release date: May 11, 2017
+* New: Added an option in White Label settings to change the category label in templates lightbox
+* Enhancement: Added new link type option in Content Grid module
+* Enhancement: Added Beaver Themer compatibility in Content Grid module
+* Enhancement: Added match fields to filters in Content Tiles module
+* Enhancement: Added mouse wheel and touch swipe feature in Dot / One Page Navigation module
+* Enhancement: Added field connections to Smart Banner image field
+* Enhancement: Added field connections to custom title and description fields in all form modules
+* Fix: Button text hover color CSS was not working in Contact Form module
+* Fix: Modal Box not closing when animation speed is set to 0
+* Fix: Changed field connection from alignment field to sub-heading field in Smart Heading module
+* Fix: Responsive alignment issue in Social Icons module
+* Fix: Minor CSS issues with multi input fields in settings lightbox
+* Fix: Deprecated functions issue with BB 1.10
+* Fix: Image width issue in Content Grid carousel layout
+* Fix: Gravity Form right padding issue
+* Fix: Caption not linked in Image module
+
+== 1.2.5 ==
+Release date: April 24, 2017
+* Enhancement: Images will be stacked in Images Panel module on device
+* Fix: Grid layout issue when using shortcode to render Content Grid in Advanced Accordion module
+* Fix: CSS not working for featured title in Pricing Table module
+* Fix: Undefined function error when fetching templates
+* Fix: Content alignment issue in Hover Card module on iOS devices
+
+== 1.2.4 ==
+Release date: April 7, 2017
+* New: Added new row templates including Heading and FAQs
+* Enhancement: Added link field in Smart Heading module
+* Enhancement: Added list style format (as Style 8) in Content Grid module
+* Enhancement: Added responsive fields for font-size and line-height in Infobox module
+* Enhancement: Added link target option in Infobox module
+* Enhancement: Added background overlay options in all form modules
+* Enhancement: Updated hover transitions in Infobox module and button module
+* Fix: HTML render issue in Content Tiles module
+* Fix: Modal Box responsive layout issue and other minor issues on different viewport
+* Fix: Announcement Bar responsive header overlap issue
+* Fix: Box shadow CSS output in all form modules
+* Fix: Button CSS output in Formidable form module
+* Fix: Hours output in Business Hours module
+* Fix: Contact Form 7 submission issues
+* Fix: Subscribe Form submission issues
+* Fix: PHP notice in Contact Form 7
+* Fix: PHP notice in Dot / One Page navigation module's CSS
+
+== 1.2.3 ==
+Release date: February 3, 2017
+* Enhancement: Added overlay effects in Modal Box module
+* Fix: Empty heading markup output in Testimonials module
+* Fix: Fullscreen video issue in Modal Box module
+* Fix: Contact Form error on submit
+* Fix: PHP warnings in Contact Form, Subscribe Form, and Pricing Table module when using PowerPack with Beaver Builder Lite version
+
+== 1.2.2 ==
+Release date: January 24, 2017
+* Enhancement: Added schema markup in Business Hours module
+* Enhancement: Changed sequence of tab IDs in Advanced Tabs module to start from 1
+* Enhancement: Added a field to input custom prefix for tab IDs attribute in Advanced Tabs module
+* Enhancement: Added a field in Content Grid module to control vertical spacing of pagination
+* Enhancement: Testimonials Module won't create slider while having only one testimonial
+* Enhancement: Removed default font sizes from InfoBox module to retain theme's style
+* Enhancement: Removed default typography values from Gravity Forms module to retain theme's style
+* Enhancement: Removed default text color values from WPForms module to retain theme's style
+* Enhancement: Removed default text color values from Ninja Forms module to retain theme's style
+* Enhancement: Removed default text color, input border color, typography values from Contact Form 7 module to retain theme's style
+* Fix: Image animation on page scroll in Smart Banner module
+* Fix: Ninja Forms submit button styling bug
+* Fix: Minor issues of Modal Box module
+* Fix: Minor styling issues of Advanced Tabs module
+* Fix: Image width issue in Testimonial module on small device
+* Fix: Exit Intent popup reappear issue when cookie duration is set in Subscribe Form module
+* Fix: Equal height issue of posts when displaying Content Grid in Advanced Tab module via shortcode
+* Fix: Hover Cards 2 responsive size issue
+* Fix: PHP warnings in Contact Form submit button when using Beaver Builder Lite
+
+== 1.2.1 ==
+Release date: December 23, 2016
+* New: Added Pricing Table module
+* New: Added Business Hours module
+* New: Added Hover Cards 2 module with smooth transitions and minimal options
+* Enhancement: Restructured InfoBox module
+* Enhancement: Added Button as link type in InfoBox module
+* Enhancement: Added pp_cg_before_post_content and pp_cg_after_post_content hooks in Content Grid module
+* Enhancement: Smart Banner animations will work on page scroll
+* Fix: PowerPack wasn't working with Beaver Builder Lite due to plugin activation order
+* Fix: Some CSS issues of input fields in Gravity Forms module
+* Fix: Content Grid pagination issue on front page
+
+== 1.2.0.1 ==
+Release date: December 7, 2016
+* Enhancement: Added a toggle to choose between default or custom font size for description in Smart Heading module
+* Enhancement: Added a field to expand custom item by default in Advanced Accordion module
+* Enhancement: Added an ability to fetch the first image from the post content where the post image isn't available in Content Grid module
+* Fix: Templates fetch issue due to server permission
+* Fix: Row Templates greyscale mode switch issue in backend
+* Fix: Row Templates thumbnails missing in the panel on frontend when switching the mode in backend
+* Fix: Fancy Heading module rotate animation
+* Fix: Accordion item jumping issue due to toggle icon
+* Fix: Content Grid pagination issue
+* Fix: Extra padding issue in Gravity Form module
+* Fix: Content Tiles posts changes while paginating other grid of posts
+* Fix: PHP notice in Announcement Bar module
+* Fix: PHP notice in Dual Button module
+* Fix: PHP notice in Restaurant / Services Menu module
+
+== 1.2.0 ==
+Release date: November 23, 2016
+* New: Page Templates
+* New: Restaurant / Services Menu module
+* New: Fancy Heading module
+* New: Module override using theme
+* New: Italian language translations
+* Enhancement: Fully dynamic Template Library in backend
+* Enhancement: Extended white label settings in backend
+* Enhancement: Added Fixed at Bottom feature to Subscribe Form
+* Enhancement: Added On-Scroll Slide-In feature to Subscribe Form
+* Enhancement: Added On-Scroll Popup feature to Subscribe Form module
+* Enhancement: Added Exit-Intent Popup feature to Subscribe Form module
+* Enhancement: Added Auto-Load Popup feature to Subscribe Form module
+* Enhancement: Added Two-Step Popup feature to Subscribe Form module
+* Enhancement: Added Welcome Gate feature to Subscribe Form module
+* Enhancement: Added Gradient Overlay option in row settings
+* Enhancement: Added tab index field to set default active tab in Advanced Tabs module
+* Enhancement: Restructured Smart Banner module
+* Enhancement: Added Background Position option for image in Smart Banner module
+* Enhancement: Added Link Type to choose between button and entire banner in Smart Banner module
+* Enhancement: Added image size option in Testimonials module
+* Fix: Missing translatable strings in some modules
+* Fix: Tap hover issue of Hover Cards module in iOS Safari
+* Fix: InfoBox image icon size
+* Fix: Background color of secondary heading in Smart Heading module
+* Fix: Clutter while switching tabs in Advanced Tabs module
+* Fix: Extra spacing of description in Smart Heading module
+* Fix: Modal Box module executing WP_Query in backend
+
+== 1.1.8 ==
+Release date: October 24, 2016
+* Enhancement: Added alt tag in Logo Grid module
+* Enhancement: Added color hover options for Title and Description in Info Box module
+* Fix: Feature Image loading issue in Content Grid module when orderby is set to random
+* Fix: Isotope error when not using Content Grid module in Advanced Tabs
+* Fix: Image height issue in Info Box module
+* Fix: Alignment issue in Icon List module
+* Fix: Down Arrow offset issue in row settings
+* Fix: Embedded video resize issue in Modal Box module
+* Fix: Announcement Bar visibility issue set in advance settings
+* Fix: Row Template Conflicts with UABB plugin
+
+== 1.1.7 ==
+Release date: October 10, 2016
+* New: Content Tiles module
+* Enhancement: Added autoplay support for YouTube and Vimeo videos in Modal Box module
+* Enhancement: Added custom CSS class fields in Dual Button module
+* Enhancement: Added dual heading options in Smart Heading module to crate dual color or dual font/weight heading titles
+* Enhancement: Added line-height option in Info Box module
+* Enhancement: Added line-height option in Icon / Number List module
+* Enhancement: Added HTML tag option in Info Box module
+* Enhancement: Added HTML tag option in Hover Cards module
+* Enhancement: Added Box Size and Round Corners options in Social Icon module
+* Enhancement: Added Direction (vertical, horizontal) option in Social Icon module
+* Enhancement: Added conditions to check if WooCommerce or EDD plugins are active to prevent any errors in Content Grid module
+* Enhancement: Added a logic to show frontend filters based on post filter in Content Grid module
+* Enhancement: Added CSS ID to link specific tab or accordion item in Advanced Tabs and Advanced Accordion module
+* Enhancement: Changed Preview button styling
+* Fix: PHP warning in Image module
+* Fix: PHP warning in Dual Button module CSS
+* Fix: Logo Grid cutoff issue in IE
+* Fix: Image crop issue in Team module
+* Fix: Icon List content float issue
+* Fix: Announcement Bar module responsive issue
+* Fix: Modal Box module responsive position issue
+* Fix: Content Grid masonry issue when displaying the module using shortcode in Advanced Tabs module
+
+
+== 1.1.6 ==
+Release date: September 23, 2016
+* New: Added Icon List module to create simple icon or number list
+* Enhancement: Added WooCommerce support in Content Grid module
+* Enhancement: Added EDD support in Content Grid module
+* Enhancement: Added total posts feature in Content Grid module
+* Enhancement: Added pp_cg_placeholder_img filter to change placeholder image in Content Grid module
+* Enhancement: Added pp_cg_content_limit_more filter to append 'more' to description in Content Grid module
+* Enhancement: Revamped admin settings for better control over templates and modules
+* Enhancement: Added equal height toggle in Logo Grid & Carousel module
+* Enhancement: Added border options for close button in Modal Box module
+* Enhancement: Replaced textarea to WYSWIG editor in Team module
+* Fix: Warning in WPForms module when no forms created in backend
+* Fix: License activation issue on fresh WP install
+* Fix: Included FontAwesome CSS in Social Icons module
+* Fix: Content overlap on Modal Box when using background overlay in column settings
+* Fix: White Label settings for Row Templates shortcut in panel
+
+
+== 1.1.5 ==
+Release date: September 2, 2016
+* New: Row Templates
+* New: Page Templates
+* New: Accordion Module
+* New: Team Module
+* New: Subscribe Form Module
+* New: Social Icon Module
+* New: Spacer Module
+* Enhancement: Tabs Module
+* Fix: Big Triangle Right Top - Row Separator Module
+* Fix: Image select option for Testimonials Module
+* Fix: Cut off issue in Modal Box
+
+
+== 1.1.4 ==
+Release date: August 4, 2016
+* Fix: Missing style options for Smart Headings module
+
+== 1.1.3 ==
+Release date: August 3, 2016
+* Fix: Missing jQuery library for imagesLoaded
+* Fix: Layout issues with Content Grid's infinite load
+* Fix: Layout issues with Logo Grid & Carousel module
+
+== 1.1.2 ==
+Release date: August 2, 2016
+* Fix: Minor bug with height and alignment in Content Grid module.
+* Fix: Conflicts with new Row Separator settings
+
+== 1.1.1 ==
+Release date: August 2, 2016
+* New: Content Grid module
+* New: Row Overlay effects
+* New: Bottom Row Separator setting
+* New: Advanced Tabs module
+* New: Ninja Forms module
+* New: Advanced Contact Form module
+* Fix: Logo grid height issue
+* Fix: Modal Box & Row Separator overlay issue
+* Fix: Announcement bar top position bug
+* New: Cookie expiration for auto-load modal popup
+* Fix: Line separator responsive issue
+* Fix: Smart Headings separator responsive issue
+* Enhancement: Title Tag selector for Flip Box module
+* Fix: Broken module form styling due to third party BB add-ons
+
+
+== 1.1.0 ==
+Release date: July 16, 2016
+* New: Module for WPForms
+* New: Module for Caldera Forms
+* New: Module for Formidable Forms
+* Fix: Modal Box external button / link options
+* Fix: Missing White Label feature for Image and Announcement Bar modules
+* Fix: Logo carousel responsive height
+* Fix: Logo grid carousel width and responsive layout
+* Fix: Height issues in Logo Grid module
+* Fix: Border toggles and renamed labels in Logo Grid
+* Enhancement: Moved carousel settings to Carousel tab and renamed Border Radius to Round Corners
+* Enhancement: Added equal height support for Info Box module
+* Enhancement: Added panel search focus on load
+* Fix: Panel search style fixes
+* Enhancement: Added live CSS preview support for multi-text and switch fields
+* Enhancement: Added live preview support for pp-switch field
+* Enhancement: Moved Row Separator module to Row settings
+* Enhancement: Changed opacity input field for Contact Form 7 module
+* Fix: Modal Box z-index bug for close icon
+* Enhancement: Changed label for "Adaptive Height" to "Fixed Height" and updated the options.
+
+
+== 1.0.9 ==
+Release date: July 12, 2016
+* Fix: Modal Box external button / link options
+* New: Added a toggle to enable / disable modal box exit behavior with mouse click
+* Enhancement: Added Modal ID to helper text
+* Fix: Responsive input style bug
+* Enhancement: Updated tooltip to use built in TipTip library
+* New: Added adaptive height option for Testimonial slider
+* Enhancement: IE Support for FlipBox
+* Enhancement: Code Refactoring for Info Box module
+* Enhancement: Code Refactoring for Flip Box module
+* Fix: CF7 Button alignment bug
+* New: Opacity control for CF7
+* Fix: Border Box for module Search input
+* Fix: Remove icon option in Info List
+* Fix: Hover effect for modal button
+
+== 1.0.8 ==
+Release date: July 9, 2016
+* Fix: Bug with Gravity Form styling options
+* Fix: Padding options issue in Image module
+* New: Add color option for modal box module content
+* Fix: Alignment options in smart headings module
+
+== 1.0.7 ==
+Release date: July 7, 2016
+* New: Image Module with enhanced options for adding images
+* New: Image Panels module to display a set of images
+* New: Gradient background color options for Rows
+* New: Expandable Rows available under Row Settings.
+* New: Smart Button module for better button styling
+* New: Dual Button module for creating dual buttons
+* New: Pull Quote module to create attractive quote blocks
+* New: Alert Box module to create simple message blocks
+* New: Announcement Bar module to create announcement bars for pages
+* New: Improved UI for settings form
+* New: Search box for modules panel
+* New: Modal Box module can now be triggered with any link/button
+* Fix: Vertical alignment for Modal Box
+* Fix: Flip Box layout issues in Safari
+* Fix: Separator width issue in Smart Headings module
+* Fix: Row separator z-index issue
+* Fix: Gravity Form Styling issue with GF 2.0.2
+
+== 1.0.6 ==
+* New: Added Backlight effect setting for Modal Box
+* New: Added Button styling tab for Modal Box
+* New: Added styling control for Gravity Form field description text
+* New: Added Button icon options for Modal Box button
+* New: Added background opacity option for Modal Box
+* New: Updated White Label settings for Builder Sidebar module category label
+* Fix: Disable playing of videos on closing the Modal Box
+* Fix: Fit Videos to modal box size
+
+== 1.0.5 ==
+Release date: June 30, 2016
+* New: White Label branding
+* New: Modal Box
+
+== 1.0.4 ==
+Release date: June 23, 2016
+* New: Smart Headings module
+* New: Divider module
+* New: Column Separator
+* New: Row Separator stylings
+* New: Contact Form 7 module
+* New: Dot Navigation - One Page Navigation module
+* New: Logo Grid & Carousel module
+* Fix: Gravity Form styling fixes
+* Fix: Testimonial styling conflict with the BB Theme
+
+== 1.0.3 ==
+* Fix: Testimonial styling bug with BB Theme
+* Fix: Bug in Info list styling selector
+
+== 1.0.2 ==
+* Fix: Layout styling options for testimonial
+* Fix: Bug in Info list
+* Fix: Bug in testimonial carousel
+
+== 1.0.1 ==
+* Fix: responsive styling for Testimonial Carousel module
+* Fix: border styling for Testimonial Carousel module
+* Fix: Responsive styling for Info List module
+* Fix: Invalid button HTML output for Smart Banner module
+* New: Added a new layout for Testimonial Carousel
+
+== 1.0.0 ==
+Release date: June 15, 2016
+* Initial Release

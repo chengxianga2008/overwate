@@ -1,0 +1,92 @@
+/**
+ * This file should contain frontend styles that
+ * will be applied to all module instances.
+ */
+
+.pp-member-wrapper {
+    overflow: hidden;
+}
+
+.pp-member-wrapper a,
+.pp-member-wrapper a:hover {
+    text-decoration: none;
+}
+
+.pp-member-wrapper .pp-member-image.pp-image-crop-circle img {
+    -webkit-border-radius: 100% !important;
+    -moz-border-radius: 100% !important;
+    border-radius: 100% !important;
+}
+
+
+.pp-member-social-icons ul li {
+    display:  inline-block;
+    position: relative;
+    margin-right:15px;
+    margin-bottom: 5px;
+}
+
+.pp-member-social-icons ul {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.pp-member-social-icons ul li:last-child {
+    margin-right: 0;
+}
+
+.pp-member-social-icons li a {
+    display: block;
+}
+
+.pp-member-social-icons li a::before {
+    display:        inline-block;
+    font-family:    'FontAwesome';
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    color: #333;
+    text-align: center;
+}
+
+.pp-member-social-icons li:hover a::before {
+    transition: all 0.3s ease;
+}
+
+.pp-member-social-icons li.pp-social-fb a::before {
+    content: '\f09a';
+}
+.pp-member-social-icons li.pp-social-twitter a::before {
+    content: '\f099';
+}
+.pp-member-social-icons li.pp-social-dribbble a::before {
+    content: '\f17d';
+}
+.pp-member-social-icons li.pp-social-gplus a::before {
+    content: '\f0d5';
+}
+.pp-member-social-icons li.pp-social-pinterest a::before {
+    content: '\f0d2';
+}
+.pp-member-social-icons li.pp-social-github a::before {
+    content: '\f113';
+}
+.pp-member-social-icons li.pp-social-tumblr a::before {
+    content: '\f173';
+}
+.pp-member-social-icons li.pp-social-youtube a::before {
+    content: '\f16a';
+}
+.pp-member-social-icons li.pp-social-flickr a::before {
+    content: '\f16e';
+}
+.pp-member-social-icons li.pp-social-vimeo a::before {
+    content: '\f194';
+}
+.pp-member-social-icons li.pp-social-instagram a::before {
+    content: '\f16d';
+}
+.pp-member-social-icons li.pp-social-linkedin a::before {
+    content: '\f0e1';
+}

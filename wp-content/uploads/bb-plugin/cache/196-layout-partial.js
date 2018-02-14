@@ -1,0 +1,3 @@
+
+(function($){if($(window).width()<=768&&$(window).width()>=481){$('.fl-node-59719483211ba .pp-heading-separator, .fl-node-59719483211ba .pp-heading').removeClass('pp-center');$('.fl-node-59719483211ba .pp-heading-separator, .fl-node-59719483211ba .pp-heading').addClass('pp-tablet-center');}
+if($(window).width()<=480){$('.fl-node-59719483211ba .pp-heading-separator, .fl-node-59719483211ba .pp-heading').removeClass('pp-center');$('.fl-node-59719483211ba .pp-heading-separator, .fl-node-59719483211ba .pp-heading').addClass('pp-mobile-center');}})(jQuery);

@@ -1,0 +1,84 @@
+/*
+    Toolset GUI base styles.
+
+    Used for the generic and listing pages.
+
+    @since 2.2
+*/
+
+#toolset-page-content .sort-icon-inactive {
+    color: #ccc !important;
+}
+
+#toolset-page-content table.wp-list-table td.manage-column > a.sort-column {
+    cursor: pointer;
+}
+
+#toolset-page-content a.a-without-href {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+/*
+    Table row styling
+*/
+#toolset-page-content .row-actions > span > a {
+    cursor: pointer;
+}
+
+
+/*
+    Spinner image before the page is fully loaded.
+
+    Center horizontally and vertically.
+*/
+#toolset-page-content .toolset-page-spinner {
+    height: 400px;
+    position: relative;
+}
+
+#toolset-page-content .toolset-page-spinner > img {
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+
+/* Handle too long dialog titles. */
+.ui-dialog-title {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+}
+
+
+/* Red buttons. To be combined with button-primary. */
+.toolset-red-button {
+    background-color: #FF4444 !important;
+    border-color: #DE2020 !important;
+    box-shadow: #DE2020 0 1px 0 0 !important;
+
+    text-shadow:0 -1px 1px red, 1px 0 1px red, 0 1px 1px red, -1px 0 1px red !important;
+}
+
+
+/* Override styling from basic.css in Types back to default. */
+body.wp-admin button.ui-corner-all.toolset-button-in-dialog {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+/*
+    For table that contains labels and inputs in two columns.
+
+    Adjustments to make it look like legacy Types tables.
+*/
+table.toolset-field-table tbody td:first-child {
+    text-align: right;
+    vertical-align: middle;
+    min-width: 200px;
+    width: 20%;
+}

@@ -1,0 +1,5059 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dynamik Website Builder 2.0\n"
+"POT-Creation-Date: 2017-01-22 20:30+0000\n"
+"PO-Revision-Date: 2017-01-22 20:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: The Cobalt Apps Team <info@cobaltapps.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/admin/boxes/custom-conditionals.php:12
+#: lib/admin/boxes/settings-import-export.php:60
+#: lib/admin/boxes/settings-import-export.php:104
+msgid "Custom Conditionals"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:14
+#: lib/admin/boxes/custom-hook-boxes.php:14
+#: lib/admin/boxes/custom-labels.php:14 lib/admin/boxes/custom-templates.php:14
+#: lib/admin/boxes/custom-widget-areas.php:14
+msgid "Add"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:22
+msgid "Custom Conditional successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:26
+msgid "Custom Conditional successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:43
+#: lib/admin/boxes/custom-conditionals.php:57
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-labels.php:42 lib/admin/boxes/custom-labels.php:56
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47 lib/admin/build-menu.php:79
+msgid "Name"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:44
+#: lib/admin/boxes/custom-conditionals.php:58 lib/admin/build-menu.php:84
+msgid "Tag"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:45
+#: lib/admin/boxes/custom-conditionals.php:59
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-hook-boxes.php:49
+#: lib/admin/boxes/custom-labels.php:45 lib/admin/boxes/custom-labels.php:57
+#: lib/admin/boxes/custom-templates.php:48
+#: lib/admin/boxes/custom-templates.php:65
+#: lib/admin/boxes/custom-widget-areas.php:32
+#: lib/admin/boxes/custom-widget-areas.php:50 lib/admin/build-menu.php:86
+#: lib/functions/skins.php:60
+msgid "Delete"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:11
+msgid "Custom CSS Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:24
+msgid "Select and Insert [&raquo;] Elements to be styled:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:25
+msgid "Select Element Type"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:31
+msgid "Page Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:39
+msgid "Header Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:47
+msgid "Header Menu Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:55
+msgid "Primary Menu Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:63
+msgid "Secondary Menu Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:71
+msgid "Content Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:79
+msgid "Breadcrumb Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:87
+msgid "Archive Description Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:95
+msgid "Author Box Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:103
+msgid "Featured Content Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:111
+msgid "Sidebar Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:119
+#: lib/admin/boxes/custom-css-builder.php:127
+msgid "Comment Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:135
+msgid "EZ Feature Top Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:143
+msgid "EZ Fat Footer Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:151
+msgid "EZ Home Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:159
+msgid "EZ Home Sidebar Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:167
+msgid "EZ Home Slider Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:175
+msgid "Custom Widget Areas Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:183
+msgid "Genesis Footer Widgets Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:191
+msgid "Footer Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:215
+#: lib/admin/boxes/design-author.php:19 lib/admin/boxes/design-author.php:38
+#: lib/admin/boxes/design-author.php:74 lib/admin/boxes/design-author.php:87
+#: lib/admin/boxes/design-author.php:100 lib/admin/boxes/design-body.php:78
+#: lib/admin/boxes/design-breadcrumbs.php:19
+#: lib/admin/boxes/design-breadcrumbs.php:55
+#: lib/admin/boxes/design-breadcrumbs.php:68
+#: lib/admin/boxes/design-comments.php:19
+#: lib/admin/boxes/design-comments.php:38
+#: lib/admin/boxes/design-comments.php:74
+#: lib/admin/boxes/design-comments.php:109
+#: lib/admin/boxes/design-comments.php:144
+#: lib/admin/boxes/design-comments.php:163
+#: lib/admin/boxes/design-comments.php:199
+#: lib/admin/boxes/design-comments.php:234
+#: lib/admin/boxes/design-comments.php:253
+#: lib/admin/boxes/design-comments.php:266
+#: lib/admin/boxes/design-comments.php:279
+#: lib/admin/boxes/design-comments.php:292
+#: lib/admin/boxes/design-comments.php:305
+#: lib/admin/boxes/design-comments.php:318
+#: lib/admin/boxes/design-comments.php:331
+#: lib/admin/boxes/design-comments.php:344
+#: lib/admin/boxes/design-comments.php:357
+#: lib/admin/boxes/design-comments.php:370
+#: lib/admin/boxes/design-comments.php:383
+#: lib/admin/boxes/design-comments.php:406
+#: lib/admin/boxes/design-comments.php:429
+#: lib/admin/boxes/design-content.php:112
+#: lib/admin/boxes/design-content.php:149
+#: lib/admin/boxes/design-content.php:186
+#: lib/admin/boxes/design-content.php:223
+#: lib/admin/boxes/design-content.php:243
+#: lib/admin/boxes/design-content.php:280
+#: lib/admin/boxes/design-content.php:293
+#: lib/admin/boxes/design-content.php:306
+#: lib/admin/boxes/design-content.php:319
+#: lib/admin/boxes/design-content.php:332
+#: lib/admin/boxes/design-content.php:345
+#: lib/admin/boxes/design-content.php:358
+#: lib/admin/boxes/design-content.php:381
+#: lib/admin/boxes/design-content.php:404
+#: lib/admin/boxes/design-content.php:425
+#: lib/admin/boxes/design-content.php:639 lib/admin/boxes/design-ez.php:45
+#: lib/admin/boxes/design-ez.php:64 lib/admin/boxes/design-ez.php:99
+#: lib/admin/boxes/design-ez.php:127 lib/admin/boxes/design-ez.php:242
+#: lib/admin/boxes/design-ez.php:261 lib/admin/boxes/design-ez.php:297
+#: lib/admin/boxes/design-ez.php:325 lib/admin/boxes/design-ez.php:412
+#: lib/admin/boxes/design-ez.php:431 lib/admin/boxes/design-ez.php:467
+#: lib/admin/boxes/design-ez.php:495 lib/admin/boxes/design-footer.php:19
+#: lib/admin/boxes/design-footer.php:55 lib/admin/boxes/design-footer.php:68
+#: lib/admin/boxes/design-header.php:19 lib/admin/boxes/design-header.php:55
+#: lib/admin/boxes/design-header.php:75 lib/admin/boxes/design-header.php:88
+#: lib/admin/boxes/design-nav-1.php:21 lib/admin/boxes/design-nav-1.php:70
+#: lib/admin/boxes/design-nav-1.php:106 lib/admin/boxes/design-nav-1.php:119
+#: lib/admin/boxes/design-nav-1.php:132 lib/admin/boxes/design-nav-1.php:145
+#: lib/admin/boxes/design-nav-1.php:158 lib/admin/boxes/design-nav-1.php:171
+#: lib/admin/boxes/design-nav-1.php:184 lib/admin/boxes/design-nav-2.php:21
+#: lib/admin/boxes/design-nav-2.php:70 lib/admin/boxes/design-nav-2.php:83
+#: lib/admin/boxes/design-nav-2.php:96 lib/admin/boxes/design-nav-2.php:109
+#: lib/admin/boxes/design-nav-2.php:122 lib/admin/boxes/design-nav-2.php:135
+#: lib/admin/boxes/design-nav-2.php:148 lib/admin/boxes/design-nav-3.php:19
+#: lib/admin/boxes/design-nav-3.php:68 lib/admin/boxes/design-nav-3.php:81
+#: lib/admin/boxes/design-nav-3.php:94 lib/admin/boxes/design-nav-3.php:107
+#: lib/admin/boxes/design-nav-3.php:120 lib/admin/boxes/design-nav-3.php:133
+#: lib/admin/boxes/design-nav-3.php:146 lib/admin/boxes/design-post-nav.php:19
+#: lib/admin/boxes/design-post-nav.php:54
+#: lib/admin/boxes/design-post-nav.php:67 lib/admin/boxes/design-search.php:19
+#: lib/admin/boxes/design-search.php:39 lib/admin/boxes/design-search.php:75
+#: lib/admin/boxes/design-search.php:88 lib/admin/boxes/design-search.php:101
+#: lib/admin/boxes/design-sidebars.php:19
+#: lib/admin/boxes/design-sidebars.php:38
+#: lib/admin/boxes/design-sidebars.php:74
+#: lib/admin/boxes/design-sidebars.php:87
+#: lib/admin/boxes/design-sidebars.php:100
+#: lib/admin/boxes/design-sidebars.php:119
+#: lib/admin/boxes/design-taxonomy.php:19
+#: lib/admin/boxes/design-taxonomy.php:38
+#: lib/admin/boxes/design-taxonomy.php:74
+#: lib/admin/boxes/design-taxonomy.php:87
+#: lib/admin/boxes/design-taxonomy.php:100
+#: lib/admin/boxes/design-taxonomy.php:119
+#: lib/admin/boxes/design-universal-control.php:53
+#: lib/admin/boxes/design-universal-control.php:92
+#: lib/admin/boxes/design-widgets.php:20 lib/admin/boxes/design-widgets.php:55
+#: lib/admin/boxes/design-widgets.php:91 lib/admin/boxes/design-widgets.php:171
+#: lib/admin/boxes/design-widgets.php:190
+#: lib/admin/boxes/design-widgets.php:226
+#: lib/admin/boxes/design-widgets.php:239 lib/admin/boxes/design-wrap.php:19
+#: lib/admin/boxes/design-wrap.php:32 lib/admin/boxes/design-wrap.php:45
+#: lib/admin/boxes/design-wrap.php:63
+#: lib/admin/fe-css-builder/fe-css-builder.php:67
+msgid "Type"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:217
+#: lib/admin/boxes/custom-css-builder.php:253
+#: lib/admin/boxes/custom-css-builder.php:281
+#: lib/admin/boxes/custom-css-builder.php:309
+#: lib/admin/boxes/design-author.php:101
+#: lib/admin/boxes/design-breadcrumbs.php:69
+#: lib/admin/boxes/design-comments.php:384
+#: lib/admin/boxes/design-comments.php:407
+#: lib/admin/boxes/design-comments.php:430
+#: lib/admin/boxes/design-content.php:359
+#: lib/admin/boxes/design-content.php:382
+#: lib/admin/boxes/design-content.php:405
+#: lib/admin/boxes/design-content.php:426
+#: lib/admin/boxes/design-content.php:643 lib/admin/boxes/design-ez.php:128
+#: lib/admin/boxes/design-ez.php:326 lib/admin/boxes/design-ez.php:496
+#: lib/admin/boxes/design-footer.php:69 lib/admin/boxes/design-header.php:89
+#: lib/admin/boxes/design-nav-1.php:185 lib/admin/boxes/design-nav-2.php:149
+#: lib/admin/boxes/design-nav-3.php:147 lib/admin/boxes/design-sidebars.php:101
+#: lib/admin/boxes/design-sidebars.php:120
+#: lib/admin/boxes/design-taxonomy.php:101
+#: lib/admin/boxes/design-taxonomy.php:120
+#: lib/admin/boxes/design-widgets.php:240 lib/admin/boxes/design-wrap.php:46
+#: lib/admin/boxes/design-wrap.php:64
+#: lib/admin/fe-css-builder/fe-css-builder.php:69
+#: lib/admin/fe-css-builder/fe-css-builder.php:112
+#: lib/admin/fe-css-builder/fe-css-builder.php:140
+#: lib/admin/fe-css-builder/fe-css-builder.php:168
+msgid "Full"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:218
+#: lib/admin/boxes/custom-css-builder.php:263
+#: lib/admin/boxes/custom-css-builder.php:291
+#: lib/admin/boxes/design-author.php:103
+#: lib/admin/boxes/design-comments.php:386
+#: lib/admin/boxes/design-comments.php:409
+#: lib/admin/boxes/design-comments.php:432
+#: lib/admin/boxes/design-content.php:428 lib/admin/boxes/design-ez.php:327
+#: lib/admin/boxes/design-ez.php:497 lib/admin/boxes/design-footer.php:71
+#: lib/admin/boxes/design-header.php:91 lib/admin/boxes/design-nav-1.php:187
+#: lib/admin/boxes/design-nav-1.php:206 lib/admin/boxes/design-nav-1.php:340
+#: lib/admin/boxes/design-nav-2.php:151 lib/admin/boxes/design-nav-2.php:170
+#: lib/admin/boxes/design-nav-2.php:278 lib/admin/boxes/design-nav-3.php:149
+#: lib/admin/boxes/design-nav-3.php:168 lib/admin/boxes/design-nav-3.php:255
+#: lib/admin/boxes/design-widgets.php:241
+#: lib/admin/fe-css-builder/fe-css-builder.php:70
+#: lib/admin/fe-css-builder/fe-css-builder.php:122
+#: lib/admin/fe-css-builder/fe-css-builder.php:150
+msgid "Top"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:219
+#: lib/admin/boxes/custom-css-builder.php:267
+#: lib/admin/boxes/custom-css-builder.php:295
+#: lib/admin/boxes/design-author.php:104 lib/admin/boxes/design-author.php:172
+#: lib/admin/boxes/design-breadcrumbs.php:71
+#: lib/admin/boxes/design-breadcrumbs.php:108
+#: lib/admin/boxes/design-comments.php:387
+#: lib/admin/boxes/design-comments.php:410
+#: lib/admin/boxes/design-comments.php:433
+#: lib/admin/boxes/design-comments.php:589
+#: lib/admin/boxes/design-comments.php:606
+#: lib/admin/boxes/design-comments.php:623
+#: lib/admin/boxes/design-comments.php:666
+#: lib/admin/boxes/design-content.php:361
+#: lib/admin/boxes/design-content.php:384
+#: lib/admin/boxes/design-content.php:407
+#: lib/admin/boxes/design-content.php:429
+#: lib/admin/boxes/design-content.php:502
+#: lib/admin/boxes/design-content.php:532
+#: lib/admin/boxes/design-content.php:562
+#: lib/admin/boxes/design-content.php:592 lib/admin/boxes/design-ez.php:151
+#: lib/admin/boxes/design-ez.php:328 lib/admin/boxes/design-ez.php:351
+#: lib/admin/boxes/design-ez.php:498 lib/admin/boxes/design-ez.php:521
+#: lib/admin/boxes/design-footer.php:72 lib/admin/boxes/design-footer.php:110
+#: lib/admin/boxes/design-header.php:92 lib/admin/boxes/design-nav-1.php:188
+#: lib/admin/boxes/design-nav-2.php:152 lib/admin/boxes/design-nav-3.php:150
+#: lib/admin/boxes/design-post-nav.php:98 lib/admin/boxes/design-search.php:172
+#: lib/admin/boxes/design-search.php:189
+#: lib/admin/boxes/design-sidebars.php:103
+#: lib/admin/boxes/design-sidebars.php:122
+#: lib/admin/boxes/design-sidebars.php:173
+#: lib/admin/boxes/design-sidebars.php:190
+#: lib/admin/boxes/design-sidebars.php:207
+#: lib/admin/boxes/design-sidebars.php:224
+#: lib/admin/boxes/design-taxonomy.php:103
+#: lib/admin/boxes/design-taxonomy.php:122
+#: lib/admin/boxes/design-taxonomy.php:158
+#: lib/admin/boxes/design-taxonomy.php:175
+#: lib/admin/boxes/design-widgets.php:133
+#: lib/admin/boxes/design-widgets.php:150
+#: lib/admin/boxes/design-widgets.php:242
+#: lib/admin/boxes/design-widgets.php:283
+#: lib/admin/boxes/design-widgets.php:300
+#: lib/admin/fe-css-builder/fe-css-builder.php:71
+#: lib/admin/fe-css-builder/fe-css-builder.php:126
+#: lib/admin/fe-css-builder/fe-css-builder.php:154
+msgid "Bottom"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:220
+#: lib/admin/boxes/custom-css-builder.php:269
+#: lib/admin/boxes/custom-css-builder.php:297
+#: lib/admin/boxes/custom-css-builder.php:347
+#: lib/admin/boxes/custom-css-builder.php:411
+#: lib/admin/boxes/design-author.php:106 lib/admin/boxes/design-author.php:174
+#: lib/admin/boxes/design-breadcrumbs.php:73
+#: lib/admin/boxes/design-breadcrumbs.php:110
+#: lib/admin/boxes/design-comments.php:389
+#: lib/admin/boxes/design-comments.php:412
+#: lib/admin/boxes/design-comments.php:435
+#: lib/admin/boxes/design-comments.php:591
+#: lib/admin/boxes/design-comments.php:608
+#: lib/admin/boxes/design-comments.php:625
+#: lib/admin/boxes/design-comments.php:668
+#: lib/admin/boxes/design-content.php:362
+#: lib/admin/boxes/design-content.php:385
+#: lib/admin/boxes/design-content.php:408
+#: lib/admin/boxes/design-content.php:430
+#: lib/admin/boxes/design-content.php:504
+#: lib/admin/boxes/design-content.php:534
+#: lib/admin/boxes/design-content.php:564
+#: lib/admin/boxes/design-content.php:594 lib/admin/boxes/design-ez.php:153
+#: lib/admin/boxes/design-ez.php:353 lib/admin/boxes/design-ez.php:523
+#: lib/admin/boxes/design-footer.php:112 lib/admin/boxes/design-header.php:213
+#: lib/admin/boxes/design-nav-1.php:241 lib/admin/boxes/design-nav-2.php:205
+#: lib/admin/boxes/design-responsive.php:135
+#: lib/admin/boxes/design-search.php:174 lib/admin/boxes/design-search.php:191
+#: lib/admin/boxes/design-sidebars.php:175
+#: lib/admin/boxes/design-sidebars.php:192
+#: lib/admin/boxes/design-sidebars.php:209
+#: lib/admin/boxes/design-sidebars.php:226
+#: lib/admin/boxes/design-taxonomy.php:160
+#: lib/admin/boxes/design-taxonomy.php:177
+#: lib/admin/boxes/design-widgets.php:135
+#: lib/admin/boxes/design-widgets.php:152
+#: lib/admin/boxes/design-widgets.php:243
+#: lib/admin/boxes/design-widgets.php:265
+#: lib/admin/boxes/design-widgets.php:285
+#: lib/admin/boxes/design-widgets.php:302
+#: lib/admin/fe-css-builder/fe-css-builder.php:72
+#: lib/admin/fe-css-builder/fe-css-builder.php:128
+#: lib/admin/fe-css-builder/fe-css-builder.php:156
+#: lib/admin/fe-css-builder/fe-css-builder.php:223
+#: lib/admin/fe-css-builder/fe-css-builder.php:287
+msgid "Left"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:221
+#: lib/admin/boxes/custom-css-builder.php:265
+#: lib/admin/boxes/custom-css-builder.php:293
+#: lib/admin/boxes/custom-css-builder.php:349
+#: lib/admin/boxes/custom-css-builder.php:412
+#: lib/admin/boxes/design-author.php:107 lib/admin/boxes/design-author.php:170
+#: lib/admin/boxes/design-breadcrumbs.php:106
+#: lib/admin/boxes/design-comments.php:390
+#: lib/admin/boxes/design-comments.php:413
+#: lib/admin/boxes/design-comments.php:436
+#: lib/admin/boxes/design-comments.php:587
+#: lib/admin/boxes/design-comments.php:604
+#: lib/admin/boxes/design-comments.php:621
+#: lib/admin/boxes/design-comments.php:664
+#: lib/admin/boxes/design-content.php:363
+#: lib/admin/boxes/design-content.php:386
+#: lib/admin/boxes/design-content.php:500
+#: lib/admin/boxes/design-content.php:530
+#: lib/admin/boxes/design-content.php:560
+#: lib/admin/boxes/design-content.php:590 lib/admin/boxes/design-ez.php:149
+#: lib/admin/boxes/design-ez.php:349 lib/admin/boxes/design-ez.php:519
+#: lib/admin/boxes/design-footer.php:108 lib/admin/boxes/design-header.php:214
+#: lib/admin/boxes/design-nav-1.php:271 lib/admin/boxes/design-nav-1.php:342
+#: lib/admin/boxes/design-nav-2.php:235 lib/admin/boxes/design-nav-2.php:280
+#: lib/admin/boxes/design-nav-3.php:212 lib/admin/boxes/design-nav-3.php:257
+#: lib/admin/boxes/design-post-nav.php:111
+#: lib/admin/boxes/design-search.php:170 lib/admin/boxes/design-search.php:187
+#: lib/admin/boxes/design-sidebars.php:171
+#: lib/admin/boxes/design-sidebars.php:188
+#: lib/admin/boxes/design-sidebars.php:205
+#: lib/admin/boxes/design-sidebars.php:222
+#: lib/admin/boxes/design-taxonomy.php:156
+#: lib/admin/boxes/design-taxonomy.php:173
+#: lib/admin/boxes/design-widgets.php:131
+#: lib/admin/boxes/design-widgets.php:148
+#: lib/admin/boxes/design-widgets.php:244
+#: lib/admin/boxes/design-widgets.php:266
+#: lib/admin/boxes/design-widgets.php:281
+#: lib/admin/boxes/design-widgets.php:298
+#: lib/admin/fe-css-builder/fe-css-builder.php:73
+#: lib/admin/fe-css-builder/fe-css-builder.php:124
+#: lib/admin/fe-css-builder/fe-css-builder.php:152
+#: lib/admin/fe-css-builder/fe-css-builder.php:225
+#: lib/admin/fe-css-builder/fe-css-builder.php:288
+msgid "Right"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:223
+#: lib/admin/boxes/design-author.php:109 lib/admin/boxes/design-author.php:123
+#: lib/admin/boxes/design-breadcrumbs.php:75
+#: lib/admin/boxes/design-comments.php:392
+#: lib/admin/boxes/design-comments.php:415
+#: lib/admin/boxes/design-comments.php:438
+#: lib/admin/boxes/design-comments.php:452
+#: lib/admin/boxes/design-comments.php:471
+#: lib/admin/boxes/design-comments.php:486
+#: lib/admin/boxes/design-comments.php:501
+#: lib/admin/boxes/design-comments.php:516
+#: lib/admin/boxes/design-content.php:366
+#: lib/admin/boxes/design-content.php:389
+#: lib/admin/boxes/design-content.php:411
+#: lib/admin/boxes/design-content.php:433
+#: lib/admin/boxes/design-content.php:447
+#: lib/admin/boxes/design-content.php:462
+#: lib/admin/boxes/design-content.php:481 lib/admin/boxes/design-ez.php:112
+#: lib/admin/boxes/design-ez.php:132 lib/admin/boxes/design-ez.php:310
+#: lib/admin/boxes/design-ez.php:332 lib/admin/boxes/design-ez.php:480
+#: lib/admin/boxes/design-ez.php:502 lib/admin/boxes/design-footer.php:75
+#: lib/admin/boxes/design-header.php:95 lib/admin/boxes/design-nav-1.php:191
+#: lib/admin/boxes/design-nav-2.php:155 lib/admin/boxes/design-nav-3.php:153
+#: lib/admin/boxes/design-post-nav.php:80 lib/admin/boxes/design-search.php:114
+#: lib/admin/boxes/design-search.php:128 lib/admin/boxes/design-search.php:142
+#: lib/admin/boxes/design-sidebars.php:105
+#: lib/admin/boxes/design-sidebars.php:124
+#: lib/admin/boxes/design-sidebars.php:139
+#: lib/admin/boxes/design-taxonomy.php:105
+#: lib/admin/boxes/design-taxonomy.php:124
+#: lib/admin/boxes/design-universal-control.php:108
+#: lib/admin/boxes/design-widgets.php:246 lib/admin/boxes/design-wrap.php:50
+#: lib/admin/boxes/design-wrap.php:68
+#: lib/admin/fe-css-builder/fe-css-builder.php:75
+msgid "Thickness"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:224
+#: lib/admin/fe-css-builder/fe-css-builder.php:76
+#: lib/admin/fe-css-builder/fe-css-builder.php:197
+#: lib/admin/fe-css-builder/fe-css-builder.php:275
+#: lib/admin/fe-css-builder/fe-css-builder.php:279
+#: lib/admin/fe-css-builder/fe-css-builder.php:283
+msgid "px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:225
+#: lib/admin/boxes/design-author.php:110 lib/admin/boxes/design-author.php:125
+#: lib/admin/boxes/design-body.php:44 lib/admin/boxes/design-breadcrumbs.php:76
+#: lib/admin/boxes/design-comments.php:393
+#: lib/admin/boxes/design-comments.php:416
+#: lib/admin/boxes/design-comments.php:439
+#: lib/admin/boxes/design-comments.php:454
+#: lib/admin/boxes/design-comments.php:473
+#: lib/admin/boxes/design-comments.php:488
+#: lib/admin/boxes/design-comments.php:503
+#: lib/admin/boxes/design-comments.php:518
+#: lib/admin/boxes/design-content.php:368
+#: lib/admin/boxes/design-content.php:391
+#: lib/admin/boxes/design-content.php:412
+#: lib/admin/boxes/design-content.php:434
+#: lib/admin/boxes/design-content.php:449
+#: lib/admin/boxes/design-content.php:464
+#: lib/admin/boxes/design-content.php:483 lib/admin/boxes/design-ez.php:114
+#: lib/admin/boxes/design-ez.php:133 lib/admin/boxes/design-ez.php:312
+#: lib/admin/boxes/design-ez.php:333 lib/admin/boxes/design-ez.php:482
+#: lib/admin/boxes/design-ez.php:503 lib/admin/boxes/design-footer.php:76
+#: lib/admin/boxes/design-header.php:96 lib/admin/boxes/design-nav-1.php:192
+#: lib/admin/boxes/design-nav-1.php:210 lib/admin/boxes/design-nav-2.php:156
+#: lib/admin/boxes/design-nav-2.php:174 lib/admin/boxes/design-nav-3.php:154
+#: lib/admin/boxes/design-nav-3.php:172 lib/admin/boxes/design-post-nav.php:81
+#: lib/admin/boxes/design-search.php:115 lib/admin/boxes/design-search.php:129
+#: lib/admin/boxes/design-search.php:143
+#: lib/admin/boxes/design-sidebars.php:106
+#: lib/admin/boxes/design-sidebars.php:126
+#: lib/admin/boxes/design-sidebars.php:141
+#: lib/admin/boxes/design-taxonomy.php:106
+#: lib/admin/boxes/design-taxonomy.php:126
+#: lib/admin/boxes/design-universal-control.php:109
+#: lib/admin/boxes/design-widgets.php:247 lib/admin/boxes/design-wrap.php:51
+#: lib/admin/boxes/design-wrap.php:69 lib/admin/boxes/design-wrap.php:82
+#: lib/admin/boxes/design-wrap.php:94 lib/admin/boxes/design-wrap.php:105
+#: lib/admin/boxes/design-wrap.php:121 lib/admin/boxes/design-wrap.php:132
+#: lib/admin/boxes/design-wrap.php:143
+#: lib/admin/fe-css-builder/fe-css-builder.php:77
+msgid "Style"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:229
+#: lib/admin/boxes/custom-css-builder.php:456
+#: lib/admin/boxes/custom-css-builder.php:467
+#: lib/admin/boxes/design-author.php:23 lib/admin/boxes/design-author.php:42
+#: lib/admin/boxes/design-author.php:128 lib/admin/boxes/design-body.php:79
+#: lib/admin/boxes/design-breadcrumbs.php:23
+#: lib/admin/boxes/design-comments.php:23
+#: lib/admin/boxes/design-comments.php:42
+#: lib/admin/boxes/design-comments.php:148
+#: lib/admin/boxes/design-comments.php:167
+#: lib/admin/boxes/design-comments.php:203
+#: lib/admin/boxes/design-comments.php:238
+#: lib/admin/boxes/design-comments.php:396
+#: lib/admin/boxes/design-comments.php:419
+#: lib/admin/boxes/design-comments.php:442
+#: lib/admin/boxes/design-comments.php:457
+#: lib/admin/boxes/design-comments.php:476
+#: lib/admin/boxes/design-comments.php:491
+#: lib/admin/boxes/design-comments.php:506
+#: lib/admin/boxes/design-comments.php:521
+#: lib/admin/boxes/design-content.php:117
+#: lib/admin/boxes/design-content.php:154
+#: lib/admin/boxes/design-content.php:191
+#: lib/admin/boxes/design-content.php:228
+#: lib/admin/boxes/design-content.php:248
+#: lib/admin/boxes/design-content.php:371
+#: lib/admin/boxes/design-content.php:394
+#: lib/admin/boxes/design-content.php:415
+#: lib/admin/boxes/design-content.php:437
+#: lib/admin/boxes/design-content.php:452
+#: lib/admin/boxes/design-content.php:467
+#: lib/admin/boxes/design-content.php:486
+#: lib/admin/boxes/design-content.php:649 lib/admin/boxes/design-ez.php:49
+#: lib/admin/boxes/design-ez.php:68 lib/admin/boxes/design-ez.php:117
+#: lib/admin/boxes/design-ez.php:246 lib/admin/boxes/design-ez.php:265
+#: lib/admin/boxes/design-ez.php:315 lib/admin/boxes/design-ez.php:416
+#: lib/admin/boxes/design-ez.php:435 lib/admin/boxes/design-ez.php:485
+#: lib/admin/boxes/design-footer.php:23 lib/admin/boxes/design-header.php:24
+#: lib/admin/boxes/design-header.php:60 lib/admin/boxes/design-nav-1.php:59
+#: lib/admin/boxes/design-nav-1.php:74 lib/admin/boxes/design-nav-2.php:59
+#: lib/admin/boxes/design-nav-3.php:57 lib/admin/boxes/design-search.php:24
+#: lib/admin/boxes/design-search.php:44 lib/admin/boxes/design-sidebars.php:23
+#: lib/admin/boxes/design-sidebars.php:42
+#: lib/admin/boxes/design-sidebars.php:129
+#: lib/admin/boxes/design-sidebars.php:144
+#: lib/admin/boxes/design-taxonomy.php:23
+#: lib/admin/boxes/design-taxonomy.php:42
+#: lib/admin/boxes/design-taxonomy.php:129
+#: lib/admin/boxes/design-universal-control.php:57
+#: lib/admin/boxes/design-widgets.php:59 lib/admin/boxes/design-widgets.php:95
+#: lib/admin/boxes/design-widgets.php:175
+#: lib/admin/boxes/design-widgets.php:194
+#: lib/admin/fe-css-builder/fe-css-builder.php:88
+#: lib/admin/fe-css-builder/fe-css-builder.php:332
+#: lib/admin/fe-css-builder/fe-css-builder.php:343
+msgid "Color"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:242
+#: lib/admin/fe-css-builder/fe-css-builder.php:101
+msgid "Tp-Lft"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:244
+#: lib/admin/fe-css-builder/fe-css-builder.php:103
+msgid "Tp-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:246
+#: lib/admin/fe-css-builder/fe-css-builder.php:105
+msgid "Btm-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:248
+#: lib/admin/fe-css-builder/fe-css-builder.php:107
+msgid "Btm-Lft"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:274
+#: lib/admin/boxes/custom-css-builder.php:302
+#: lib/admin/boxes/design-author.php:102
+#: lib/admin/boxes/design-breadcrumbs.php:70
+#: lib/admin/boxes/design-comments.php:385
+#: lib/admin/boxes/design-comments.php:408
+#: lib/admin/boxes/design-comments.php:431
+#: lib/admin/boxes/design-content.php:360
+#: lib/admin/boxes/design-content.php:383
+#: lib/admin/boxes/design-content.php:406
+#: lib/admin/boxes/design-content.php:427 lib/admin/boxes/design-ez.php:129
+#: lib/admin/boxes/design-ez.php:329 lib/admin/boxes/design-ez.php:499
+#: lib/admin/boxes/design-footer.php:70 lib/admin/boxes/design-header.php:90
+#: lib/admin/boxes/design-nav-1.php:186 lib/admin/boxes/design-nav-2.php:150
+#: lib/admin/boxes/design-nav-3.php:148 lib/admin/boxes/design-sidebars.php:102
+#: lib/admin/boxes/design-sidebars.php:121
+#: lib/admin/boxes/design-taxonomy.php:102
+#: lib/admin/boxes/design-taxonomy.php:121 lib/admin/boxes/design-wrap.php:47
+#: lib/admin/boxes/design-wrap.php:65 lib/admin/boxes/design-wrap.php:197
+#: lib/admin/fe-css-builder/fe-css-builder.php:133
+#: lib/admin/fe-css-builder/fe-css-builder.php:161
+msgid "Top/Bottom"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:276
+#: lib/admin/boxes/custom-css-builder.php:304
+#: lib/admin/boxes/design-author.php:105
+#: lib/admin/boxes/design-breadcrumbs.php:72
+#: lib/admin/boxes/design-comments.php:388
+#: lib/admin/boxes/design-comments.php:411
+#: lib/admin/boxes/design-comments.php:434
+#: lib/admin/boxes/design-content.php:364
+#: lib/admin/boxes/design-content.php:387
+#: lib/admin/boxes/design-content.php:409
+#: lib/admin/boxes/design-content.php:431 lib/admin/boxes/design-ez.php:130
+#: lib/admin/boxes/design-ez.php:330 lib/admin/boxes/design-ez.php:500
+#: lib/admin/boxes/design-footer.php:73 lib/admin/boxes/design-header.php:93
+#: lib/admin/boxes/design-nav-1.php:189 lib/admin/boxes/design-nav-2.php:153
+#: lib/admin/boxes/design-nav-3.php:151 lib/admin/boxes/design-wrap.php:48
+#: lib/admin/boxes/design-wrap.php:66 lib/admin/boxes/design-wrap.php:199
+#: lib/admin/fe-css-builder/fe-css-builder.php:135
+#: lib/admin/fe-css-builder/fe-css-builder.php:163
+msgid "Left/Right"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:328
+#: lib/admin/boxes/custom-css-builder.php:342
+#: lib/admin/fe-css-builder/fe-css-builder.php:204
+#: lib/admin/fe-css-builder/fe-css-builder.php:218
+msgid "Normal"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:329
+#: lib/admin/fe-css-builder/fe-css-builder.php:205
+msgid "Bold"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:330
+#: lib/admin/fe-css-builder/fe-css-builder.php:206
+msgid "100"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:331
+#: lib/admin/fe-css-builder/fe-css-builder.php:207
+msgid "200"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:332
+#: lib/admin/fe-css-builder/fe-css-builder.php:208
+msgid "300"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:333
+#: lib/admin/fe-css-builder/fe-css-builder.php:209
+msgid "400"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:334
+#: lib/admin/fe-css-builder/fe-css-builder.php:210
+msgid "500"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:335
+#: lib/admin/fe-css-builder/fe-css-builder.php:211
+msgid "600"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:336
+#: lib/admin/fe-css-builder/fe-css-builder.php:212
+msgid "700"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:337
+#: lib/admin/fe-css-builder/fe-css-builder.php:213
+msgid "800"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:338
+#: lib/admin/fe-css-builder/fe-css-builder.php:214
+msgid "900"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:343
+#: lib/admin/fe-css-builder/fe-css-builder.php:219
+msgid "Italic"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:348
+#: lib/admin/boxes/design-nav-1.php:242 lib/admin/boxes/design-nav-2.php:206
+#: lib/admin/boxes/design-responsive.php:136
+#: lib/admin/fe-css-builder/fe-css-builder.php:224
+msgid "Center"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:350
+#: lib/admin/fe-css-builder/fe-css-builder.php:226
+msgid "Justify"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:354
+#: lib/admin/boxes/custom-css-builder.php:410
+#: lib/admin/boxes/design-nav-1.php:332 lib/admin/boxes/design-nav-2.php:270
+#: lib/admin/boxes/design-nav-3.php:247
+#: lib/admin/boxes/design-responsive.php:35
+#: lib/admin/boxes/design-responsive.php:50
+#: lib/admin/boxes/design-responsive.php:64
+#: lib/admin/boxes/design-responsive.php:75
+#: lib/admin/boxes/design-responsive.php:107
+#: lib/admin/boxes/design-responsive.php:117
+#: lib/admin/boxes/design-widgets.php:264
+#: lib/admin/fe-css-builder/fe-css-builder.php:230
+#: lib/admin/fe-css-builder/fe-css-builder.php:286
+msgid "None"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:355
+#: lib/admin/fe-css-builder/fe-css-builder.php:231
+msgid "Uppercase"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:356
+#: lib/admin/fe-css-builder/fe-css-builder.php:232
+msgid "Lowercase"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:357
+#: lib/admin/fe-css-builder/fe-css-builder.php:233
+msgid "Capitalize"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:361
+#: lib/admin/fe-css-builder/fe-css-builder.php:237
+msgid ".5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:362
+#: lib/admin/fe-css-builder/fe-css-builder.php:238
+msgid "1px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:363
+#: lib/admin/fe-css-builder/fe-css-builder.php:239
+msgid "1.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:364
+#: lib/admin/fe-css-builder/fe-css-builder.php:240
+msgid "2px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:365
+#: lib/admin/fe-css-builder/fe-css-builder.php:241
+msgid "2.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:366
+#: lib/admin/fe-css-builder/fe-css-builder.php:242
+msgid "3px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:367
+#: lib/admin/fe-css-builder/fe-css-builder.php:243
+msgid "3.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:368
+#: lib/admin/fe-css-builder/fe-css-builder.php:244
+msgid "4px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:372
+#: lib/admin/fe-css-builder/fe-css-builder.php:248
+msgid "100%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:373
+#: lib/admin/fe-css-builder/fe-css-builder.php:249
+msgid "110%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:374
+#: lib/admin/fe-css-builder/fe-css-builder.php:250
+msgid "120%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:375
+#: lib/admin/fe-css-builder/fe-css-builder.php:251
+msgid "130%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:376
+#: lib/admin/fe-css-builder/fe-css-builder.php:252
+msgid "140%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:377
+#: lib/admin/fe-css-builder/fe-css-builder.php:253
+msgid "150%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:378
+#: lib/admin/fe-css-builder/fe-css-builder.php:254
+msgid "160%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:379
+#: lib/admin/fe-css-builder/fe-css-builder.php:255
+msgid "170%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:380
+#: lib/admin/fe-css-builder/fe-css-builder.php:256
+msgid "180%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:381
+#: lib/admin/fe-css-builder/fe-css-builder.php:257
+msgid "190%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:382
+#: lib/admin/fe-css-builder/fe-css-builder.php:258
+msgid "200%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:386
+#: lib/admin/boxes/custom-css-builder.php:424
+#: lib/admin/boxes/design-content.php:622
+#: lib/admin/boxes/design-sidebars.php:241
+#: lib/admin/fe-css-builder/fe-css-builder.php:262
+#: lib/admin/fe-css-builder/fe-css-builder.php:300
+msgid "none"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:387
+#: lib/admin/fe-css-builder/fe-css-builder.php:263
+msgid "underline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:388
+#: lib/admin/fe-css-builder/fe-css-builder.php:264
+msgid "overline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:389
+#: lib/admin/fe-css-builder/fe-css-builder.php:265
+msgid "line-through"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:390
+#: lib/admin/fe-css-builder/fe-css-builder.php:266
+msgid "blink"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:391
+#: lib/admin/boxes/custom-css-builder.php:420
+#: lib/admin/boxes/custom-css-builder.php:440
+#: lib/admin/fe-css-builder/fe-css-builder.php:267
+#: lib/admin/fe-css-builder/fe-css-builder.php:296
+#: lib/admin/fe-css-builder/fe-css-builder.php:316
+msgid "inherit"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:416
+#: lib/admin/fe-css-builder/fe-css-builder.php:292
+msgid "absolute"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:417
+#: lib/admin/fe-css-builder/fe-css-builder.php:293
+msgid "fixed"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:418
+#: lib/admin/fe-css-builder/fe-css-builder.php:294
+msgid "relative"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:419
+#: lib/admin/fe-css-builder/fe-css-builder.php:295
+msgid "static"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:425
+#: lib/admin/fe-css-builder/fe-css-builder.php:301
+msgid "block"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:426
+#: lib/admin/fe-css-builder/fe-css-builder.php:302
+msgid "inline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:427
+#: lib/admin/fe-css-builder/fe-css-builder.php:303
+msgid "inline-block"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:428
+#: lib/admin/fe-css-builder/fe-css-builder.php:304
+msgid "inline-table"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:429
+#: lib/admin/fe-css-builder/fe-css-builder.php:305
+msgid "list-item"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:430
+#: lib/admin/fe-css-builder/fe-css-builder.php:306
+msgid "run-in"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:431
+#: lib/admin/fe-css-builder/fe-css-builder.php:307
+msgid "table"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:432
+#: lib/admin/fe-css-builder/fe-css-builder.php:308
+msgid "table-caption"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:433
+#: lib/admin/fe-css-builder/fe-css-builder.php:309
+msgid "table-cell"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:434
+#: lib/admin/fe-css-builder/fe-css-builder.php:310
+msgid "table-column"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:435
+#: lib/admin/fe-css-builder/fe-css-builder.php:311
+msgid "table-column-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:436
+#: lib/admin/fe-css-builder/fe-css-builder.php:312
+msgid "table-footer-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:437
+#: lib/admin/fe-css-builder/fe-css-builder.php:313
+msgid "table-header-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:438
+#: lib/admin/fe-css-builder/fe-css-builder.php:314
+msgid "table-row"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:439
+#: lib/admin/fe-css-builder/fe-css-builder.php:315
+msgid "table-row-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:448
+#: lib/admin/boxes/custom-css-builder.php:461
+#: lib/admin/fe-css-builder/fe-css-builder.php:324
+#: lib/admin/fe-css-builder/fe-css-builder.php:337
+msgid "Lft-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:450
+#: lib/admin/boxes/custom-css-builder.php:463
+#: lib/admin/fe-css-builder/fe-css-builder.php:326
+#: lib/admin/fe-css-builder/fe-css-builder.php:339
+msgid "Tp-Btm"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:452
+#: lib/admin/boxes/custom-css-builder.php:465
+#: lib/admin/fe-css-builder/fe-css-builder.php:328
+#: lib/admin/fe-css-builder/fe-css-builder.php:341
+msgid "Blur"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:454
+#: lib/admin/fe-css-builder/fe-css-builder.php:330
+msgid "Spread"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:477
+#: lib/admin/boxes/custom-css-builder.php:484
+msgid "min-width"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:479
+#: lib/admin/boxes/custom-css-builder.php:489
+msgid "max-width"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:11
+#: lib/admin/boxes/settings-import-export.php:45
+#: lib/admin/boxes/settings-import-export.php:89
+#: lib/functions/build-styles.php:8581 lib/functions/import-export.php:126
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:12
+msgid "Activate Front-end CSS Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:17
+msgid "Click To View Front-end"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:11
+#: lib/admin/boxes/settings-import-export.php:48
+#: lib/admin/boxes/settings-import-export.php:92
+msgid "Custom Functions"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:12
+msgid "Affect Admin"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:12
+#: lib/admin/boxes/settings-import-export.php:66
+#: lib/admin/boxes/settings-import-export.php:110
+msgid "Custom Hook Boxes"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47 lib/admin/build-menu.php:88
+msgid "Priority"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47 lib/admin/build-menu.php:89
+msgid "Hooked"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47 lib/admin/build-menu.php:90
+msgid "Shortcode"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47 lib/admin/build-menu.php:91
+msgid "Both"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46 lib/admin/build-menu.php:92
+msgid "CSS"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47 lib/admin/build-menu.php:93
+msgid "Deactivate"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-hook-boxes.php:49
+#: lib/admin/boxes/custom-templates.php:48
+#: lib/admin/boxes/custom-templates.php:65 lib/admin/build-menu.php:85
+msgid "[do_shortcode]"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-templates.php:48
+msgid "View Only"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-templates.php:48
+msgid "View All"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:11
+msgid "Custom Javascript"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:12
+msgid "Place In &lt;head&gt;"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:12
+#: lib/admin/boxes/settings-import-export.php:57
+#: lib/admin/boxes/settings-import-export.php:101
+msgid "Custom Labels"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:22
+msgid "Custom Label successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:26
+msgid "Custom Label successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:43 lib/admin/boxes/custom-templates.php:46
+msgid "Conditional Tag: "
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:43
+msgid "dynamik_has_label('"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:43
+msgid "')"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:44
+msgid "Body Class: "
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:44
+msgid "label-"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:56 lib/admin/build-menu.php:83
+msgid "Automatically create a Custom Conditional for this Label"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:11
+msgid "Custom PHP Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:19
+msgid "remove_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:20
+msgid "add_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:21
+msgid "\"replace\"_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:22
+msgid "add_filter"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:45
+#: lib/admin/boxes/custom-php-builder.php:58
+msgid "Your Custom Function Name"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:53
+msgid "Hooks"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:63
+msgid "Layouts"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:70
+msgid "Label Widths"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:90
+msgid "Code Snippets"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:103
+msgid "Beaver Builder Templates"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:12
+#: lib/admin/boxes/settings-import-export.php:54
+#: lib/admin/boxes/settings-import-export.php:98
+msgid "Custom Templates"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:22
+msgid "Custom Template successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:26
+msgid "Custom Template successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62 lib/admin/build-menu.php:80
+msgid "File Name"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62 lib/admin/build-menu.php:81
+msgid "Template Name"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62 lib/admin/build-menu.php:94
+msgid "Page Template"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62 lib/admin/build-menu.php:95
+msgid "WordPress Template"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:46
+msgid "is_page_template('my-templates/"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:46
+msgid ".php')"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:12
+#: lib/admin/boxes/design-widgets.php:160
+#: lib/admin/boxes/settings-import-export.php:63
+#: lib/admin/boxes/settings-import-export.php:107
+msgid "Custom Widget Areas"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:32
+#: lib/admin/boxes/custom-widget-areas.php:50 lib/admin/build-menu.php:97
+msgid "Class"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:35
+#: lib/admin/boxes/custom-widget-areas.php:53 lib/admin/build-menu.php:98
+msgid "Widget Area Description:"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:11
+msgid "Post Author Box"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:14
+msgid "Author Box Title Font"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:26
+msgid "Author Box Title Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:33
+msgid "Author Box Font"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:45
+msgid "Author Box Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:52
+msgid "Author Box Link"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:57
+#: lib/admin/boxes/design-breadcrumbs.php:38
+#: lib/admin/boxes/design-comments.php:57
+#: lib/admin/boxes/design-comments.php:92
+#: lib/admin/boxes/design-comments.php:127
+#: lib/admin/boxes/design-comments.php:182
+#: lib/admin/boxes/design-content.php:95 lib/admin/boxes/design-content.php:132
+#: lib/admin/boxes/design-content.php:169
+#: lib/admin/boxes/design-content.php:206
+#: lib/admin/boxes/design-content.php:263 lib/admin/boxes/design-ez.php:82
+#: lib/admin/boxes/design-ez.php:280 lib/admin/boxes/design-ez.php:450
+#: lib/admin/boxes/design-footer.php:38 lib/admin/boxes/design-nav-1.php:89
+#: lib/admin/boxes/design-post-nav.php:37
+#: lib/admin/boxes/design-sidebars.php:57
+#: lib/admin/boxes/design-taxonomy.php:57
+#: lib/admin/boxes/design-universal-control.php:73
+#: lib/admin/boxes/design-widgets.php:38 lib/admin/boxes/design-widgets.php:74
+#: lib/admin/boxes/design-widgets.php:110
+#: lib/admin/boxes/design-widgets.php:209
+msgid "Link"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:58
+#: lib/admin/boxes/design-breadcrumbs.php:39
+#: lib/admin/boxes/design-comments.php:58
+#: lib/admin/boxes/design-comments.php:93
+#: lib/admin/boxes/design-comments.php:128
+#: lib/admin/boxes/design-comments.php:183
+#: lib/admin/boxes/design-content.php:96 lib/admin/boxes/design-content.php:133
+#: lib/admin/boxes/design-content.php:170
+#: lib/admin/boxes/design-content.php:207
+#: lib/admin/boxes/design-content.php:264 lib/admin/boxes/design-ez.php:83
+#: lib/admin/boxes/design-ez.php:281 lib/admin/boxes/design-ez.php:451
+#: lib/admin/boxes/design-footer.php:39 lib/admin/boxes/design-nav-1.php:90
+#: lib/admin/boxes/design-post-nav.php:38
+#: lib/admin/boxes/design-sidebars.php:58
+#: lib/admin/boxes/design-taxonomy.php:58
+#: lib/admin/boxes/design-universal-control.php:74
+#: lib/admin/boxes/design-widgets.php:39 lib/admin/boxes/design-widgets.php:75
+#: lib/admin/boxes/design-widgets.php:111
+#: lib/admin/boxes/design-widgets.php:210
+msgid "Link Hover"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:59
+#: lib/admin/boxes/design-breadcrumbs.php:40
+#: lib/admin/boxes/design-comments.php:59
+#: lib/admin/boxes/design-comments.php:94
+#: lib/admin/boxes/design-comments.php:129
+#: lib/admin/boxes/design-comments.php:184
+#: lib/admin/boxes/design-content.php:97 lib/admin/boxes/design-content.php:134
+#: lib/admin/boxes/design-content.php:171
+#: lib/admin/boxes/design-content.php:208
+#: lib/admin/boxes/design-content.php:265 lib/admin/boxes/design-ez.php:84
+#: lib/admin/boxes/design-ez.php:282 lib/admin/boxes/design-ez.php:452
+#: lib/admin/boxes/design-footer.php:40 lib/admin/boxes/design-header.php:40
+#: lib/admin/boxes/design-nav-1.php:25 lib/admin/boxes/design-nav-1.php:91
+#: lib/admin/boxes/design-nav-2.php:25 lib/admin/boxes/design-nav-3.php:23
+#: lib/admin/boxes/design-post-nav.php:39
+#: lib/admin/boxes/design-sidebars.php:59
+#: lib/admin/boxes/design-taxonomy.php:59
+#: lib/admin/boxes/design-universal-control.php:75
+#: lib/admin/boxes/design-widgets.php:40 lib/admin/boxes/design-widgets.php:76
+#: lib/admin/boxes/design-widgets.php:112
+#: lib/admin/boxes/design-widgets.php:211
+msgid "Link Underline"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:60
+#: lib/admin/boxes/design-breadcrumbs.php:41
+#: lib/admin/boxes/design-comments.php:60
+#: lib/admin/boxes/design-comments.php:95
+#: lib/admin/boxes/design-comments.php:130
+#: lib/admin/boxes/design-comments.php:185
+#: lib/admin/boxes/design-comments.php:220
+#: lib/admin/boxes/design-content.php:98 lib/admin/boxes/design-content.php:135
+#: lib/admin/boxes/design-content.php:172
+#: lib/admin/boxes/design-content.php:209
+#: lib/admin/boxes/design-content.php:266 lib/admin/boxes/design-ez.php:85
+#: lib/admin/boxes/design-ez.php:283 lib/admin/boxes/design-ez.php:453
+#: lib/admin/boxes/design-footer.php:41 lib/admin/boxes/design-header.php:41
+#: lib/admin/boxes/design-nav-1.php:26 lib/admin/boxes/design-nav-1.php:92
+#: lib/admin/boxes/design-nav-2.php:26 lib/admin/boxes/design-nav-3.php:24
+#: lib/admin/boxes/design-post-nav.php:40 lib/admin/boxes/design-search.php:61
+#: lib/admin/boxes/design-sidebars.php:60
+#: lib/admin/boxes/design-taxonomy.php:60
+#: lib/admin/boxes/design-universal-control.php:76
+#: lib/admin/boxes/design-widgets.php:41 lib/admin/boxes/design-widgets.php:77
+#: lib/admin/boxes/design-widgets.php:113
+#: lib/admin/boxes/design-widgets.php:212
+msgid "Never"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:61
+#: lib/admin/boxes/design-breadcrumbs.php:42
+#: lib/admin/boxes/design-comments.php:61
+#: lib/admin/boxes/design-comments.php:96
+#: lib/admin/boxes/design-comments.php:131
+#: lib/admin/boxes/design-comments.php:186
+#: lib/admin/boxes/design-comments.php:221
+#: lib/admin/boxes/design-content.php:99 lib/admin/boxes/design-content.php:136
+#: lib/admin/boxes/design-content.php:173
+#: lib/admin/boxes/design-content.php:210
+#: lib/admin/boxes/design-content.php:267 lib/admin/boxes/design-ez.php:86
+#: lib/admin/boxes/design-ez.php:284 lib/admin/boxes/design-ez.php:454
+#: lib/admin/boxes/design-footer.php:42 lib/admin/boxes/design-header.php:42
+#: lib/admin/boxes/design-nav-1.php:27 lib/admin/boxes/design-nav-1.php:93
+#: lib/admin/boxes/design-nav-2.php:27 lib/admin/boxes/design-nav-3.php:25
+#: lib/admin/boxes/design-post-nav.php:41 lib/admin/boxes/design-search.php:62
+#: lib/admin/boxes/design-sidebars.php:61
+#: lib/admin/boxes/design-taxonomy.php:61
+#: lib/admin/boxes/design-universal-control.php:77
+#: lib/admin/boxes/design-widgets.php:42 lib/admin/boxes/design-widgets.php:78
+#: lib/admin/boxes/design-widgets.php:114
+#: lib/admin/boxes/design-widgets.php:213
+msgid "On Hover"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:62
+#: lib/admin/boxes/design-breadcrumbs.php:43
+#: lib/admin/boxes/design-comments.php:62
+#: lib/admin/boxes/design-comments.php:97
+#: lib/admin/boxes/design-comments.php:132
+#: lib/admin/boxes/design-comments.php:187
+#: lib/admin/boxes/design-comments.php:222
+#: lib/admin/boxes/design-content.php:100
+#: lib/admin/boxes/design-content.php:137
+#: lib/admin/boxes/design-content.php:174
+#: lib/admin/boxes/design-content.php:211
+#: lib/admin/boxes/design-content.php:268 lib/admin/boxes/design-ez.php:87
+#: lib/admin/boxes/design-ez.php:285 lib/admin/boxes/design-ez.php:455
+#: lib/admin/boxes/design-footer.php:43 lib/admin/boxes/design-header.php:43
+#: lib/admin/boxes/design-nav-1.php:28 lib/admin/boxes/design-nav-1.php:94
+#: lib/admin/boxes/design-nav-2.php:28 lib/admin/boxes/design-nav-3.php:26
+#: lib/admin/boxes/design-post-nav.php:42 lib/admin/boxes/design-search.php:63
+#: lib/admin/boxes/design-sidebars.php:62
+#: lib/admin/boxes/design-taxonomy.php:62
+#: lib/admin/boxes/design-universal-control.php:78
+#: lib/admin/boxes/design-widgets.php:43 lib/admin/boxes/design-widgets.php:79
+#: lib/admin/boxes/design-widgets.php:115
+#: lib/admin/boxes/design-widgets.php:214
+msgid "Off Hover"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:63
+#: lib/admin/boxes/design-breadcrumbs.php:44
+#: lib/admin/boxes/design-comments.php:63
+#: lib/admin/boxes/design-comments.php:98
+#: lib/admin/boxes/design-comments.php:133
+#: lib/admin/boxes/design-comments.php:188
+#: lib/admin/boxes/design-comments.php:223
+#: lib/admin/boxes/design-content.php:101
+#: lib/admin/boxes/design-content.php:138
+#: lib/admin/boxes/design-content.php:175
+#: lib/admin/boxes/design-content.php:212
+#: lib/admin/boxes/design-content.php:269 lib/admin/boxes/design-ez.php:88
+#: lib/admin/boxes/design-ez.php:286 lib/admin/boxes/design-ez.php:456
+#: lib/admin/boxes/design-footer.php:44 lib/admin/boxes/design-header.php:44
+#: lib/admin/boxes/design-nav-1.php:29 lib/admin/boxes/design-nav-1.php:95
+#: lib/admin/boxes/design-nav-2.php:29 lib/admin/boxes/design-nav-3.php:27
+#: lib/admin/boxes/design-post-nav.php:43 lib/admin/boxes/design-search.php:64
+#: lib/admin/boxes/design-sidebars.php:63
+#: lib/admin/boxes/design-taxonomy.php:63
+#: lib/admin/boxes/design-universal-control.php:79
+#: lib/admin/boxes/design-widgets.php:44 lib/admin/boxes/design-widgets.php:80
+#: lib/admin/boxes/design-widgets.php:116
+#: lib/admin/boxes/design-widgets.php:215
+msgid "Always"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:69
+msgid "Author Box Background"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:76 lib/admin/boxes/design-author.php:89
+#: lib/admin/boxes/design-breadcrumbs.php:57
+#: lib/admin/boxes/design-comments.php:255
+#: lib/admin/boxes/design-comments.php:268
+#: lib/admin/boxes/design-comments.php:281
+#: lib/admin/boxes/design-comments.php:294
+#: lib/admin/boxes/design-comments.php:307
+#: lib/admin/boxes/design-comments.php:320
+#: lib/admin/boxes/design-comments.php:333
+#: lib/admin/boxes/design-comments.php:346
+#: lib/admin/boxes/design-comments.php:359
+#: lib/admin/boxes/design-comments.php:372
+#: lib/admin/boxes/design-content.php:282
+#: lib/admin/boxes/design-content.php:295
+#: lib/admin/boxes/design-content.php:308
+#: lib/admin/boxes/design-content.php:321
+#: lib/admin/boxes/design-content.php:334
+#: lib/admin/boxes/design-content.php:347 lib/admin/boxes/design-ez.php:101
+#: lib/admin/boxes/design-ez.php:299 lib/admin/boxes/design-ez.php:469
+#: lib/admin/boxes/design-footer.php:57 lib/admin/boxes/design-header.php:77
+#: lib/admin/boxes/design-nav-1.php:108 lib/admin/boxes/design-nav-1.php:121
+#: lib/admin/boxes/design-nav-1.php:134 lib/admin/boxes/design-nav-1.php:147
+#: lib/admin/boxes/design-nav-1.php:160 lib/admin/boxes/design-nav-1.php:173
+#: lib/admin/boxes/design-nav-2.php:72 lib/admin/boxes/design-nav-2.php:85
+#: lib/admin/boxes/design-nav-2.php:98 lib/admin/boxes/design-nav-2.php:111
+#: lib/admin/boxes/design-nav-2.php:124 lib/admin/boxes/design-nav-2.php:137
+#: lib/admin/boxes/design-nav-3.php:70 lib/admin/boxes/design-nav-3.php:83
+#: lib/admin/boxes/design-nav-3.php:96 lib/admin/boxes/design-nav-3.php:109
+#: lib/admin/boxes/design-nav-3.php:122 lib/admin/boxes/design-nav-3.php:135
+#: lib/admin/boxes/design-post-nav.php:56
+#: lib/admin/boxes/design-post-nav.php:69 lib/admin/boxes/design-search.php:77
+#: lib/admin/boxes/design-search.php:90 lib/admin/boxes/design-search.php:103
+#: lib/admin/boxes/design-sidebars.php:76
+#: lib/admin/boxes/design-sidebars.php:89
+#: lib/admin/boxes/design-taxonomy.php:76
+#: lib/admin/boxes/design-taxonomy.php:89
+#: lib/admin/boxes/design-universal-control.php:94
+#: lib/admin/boxes/design-widgets.php:228 lib/admin/boxes/design-wrap.php:21
+#: lib/admin/boxes/design-wrap.php:34
+msgid "(No Color"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:77 lib/admin/boxes/design-author.php:90
+#: lib/admin/boxes/design-body.php:101
+#: lib/admin/boxes/design-breadcrumbs.php:58
+#: lib/admin/boxes/design-comments.php:256
+#: lib/admin/boxes/design-comments.php:269
+#: lib/admin/boxes/design-comments.php:282
+#: lib/admin/boxes/design-comments.php:295
+#: lib/admin/boxes/design-comments.php:308
+#: lib/admin/boxes/design-comments.php:321
+#: lib/admin/boxes/design-comments.php:334
+#: lib/admin/boxes/design-comments.php:347
+#: lib/admin/boxes/design-comments.php:360
+#: lib/admin/boxes/design-comments.php:373
+#: lib/admin/boxes/design-content.php:283
+#: lib/admin/boxes/design-content.php:296
+#: lib/admin/boxes/design-content.php:309
+#: lib/admin/boxes/design-content.php:322
+#: lib/admin/boxes/design-content.php:335
+#: lib/admin/boxes/design-content.php:348 lib/admin/boxes/design-ez.php:102
+#: lib/admin/boxes/design-ez.php:300 lib/admin/boxes/design-ez.php:470
+#: lib/admin/boxes/design-footer.php:58 lib/admin/boxes/design-header.php:78
+#: lib/admin/boxes/design-nav-1.php:109 lib/admin/boxes/design-nav-1.php:122
+#: lib/admin/boxes/design-nav-1.php:135 lib/admin/boxes/design-nav-1.php:148
+#: lib/admin/boxes/design-nav-1.php:161 lib/admin/boxes/design-nav-1.php:174
+#: lib/admin/boxes/design-nav-1.php:331 lib/admin/boxes/design-nav-2.php:73
+#: lib/admin/boxes/design-nav-2.php:86 lib/admin/boxes/design-nav-2.php:99
+#: lib/admin/boxes/design-nav-2.php:112 lib/admin/boxes/design-nav-2.php:125
+#: lib/admin/boxes/design-nav-2.php:138 lib/admin/boxes/design-nav-2.php:269
+#: lib/admin/boxes/design-nav-3.php:71 lib/admin/boxes/design-nav-3.php:84
+#: lib/admin/boxes/design-nav-3.php:97 lib/admin/boxes/design-nav-3.php:110
+#: lib/admin/boxes/design-nav-3.php:123 lib/admin/boxes/design-nav-3.php:136
+#: lib/admin/boxes/design-nav-3.php:246 lib/admin/boxes/design-post-nav.php:57
+#: lib/admin/boxes/design-post-nav.php:70 lib/admin/boxes/design-search.php:78
+#: lib/admin/boxes/design-search.php:91 lib/admin/boxes/design-search.php:104
+#: lib/admin/boxes/design-sidebars.php:77
+#: lib/admin/boxes/design-sidebars.php:90
+#: lib/admin/boxes/design-taxonomy.php:77
+#: lib/admin/boxes/design-taxonomy.php:90
+#: lib/admin/boxes/design-universal-control.php:96
+#: lib/admin/boxes/design-widgets.php:229 lib/admin/boxes/design-wrap.php:22
+#: lib/admin/boxes/design-wrap.php:35
+msgid "Image"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:82
+msgid "Author Avatar Background"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:95
+msgid "Author Box Border"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:118
+msgid "Author Avatar Border"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:133
+msgid "Author Avatar Size/Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:138
+msgid "Author Avatar Size"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:141
+msgid "| Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:150
+msgid "Author Box Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:155
+#: lib/admin/boxes/design-breadcrumbs.php:91
+#: lib/admin/boxes/design-comments.php:559
+#: lib/admin/boxes/design-comments.php:572
+#: lib/admin/boxes/design-comments.php:649
+#: lib/admin/boxes/design-content.php:515
+#: lib/admin/boxes/design-content.php:545
+#: lib/admin/boxes/design-content.php:575 lib/admin/boxes/design-header.php:197
+#: lib/admin/boxes/design-nav-1.php:257 lib/admin/boxes/design-nav-2.php:221
+#: lib/admin/boxes/design-nav-3.php:198 lib/admin/boxes/design-sidebars.php:156
+#: lib/admin/boxes/design-taxonomy.php:141 lib/admin/boxes/design-wrap.php:158
+#: lib/admin/boxes/design-wrap.php:171
+msgid "Top Margin"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:157
+#: lib/admin/boxes/design-breadcrumbs.php:93
+#: lib/admin/boxes/design-comments.php:561
+#: lib/admin/boxes/design-comments.php:574
+#: lib/admin/boxes/design-comments.php:651
+#: lib/admin/boxes/design-content.php:517
+#: lib/admin/boxes/design-content.php:547
+#: lib/admin/boxes/design-content.php:577 lib/admin/boxes/design-header.php:198
+#: lib/admin/boxes/design-nav-1.php:259 lib/admin/boxes/design-nav-2.php:223
+#: lib/admin/boxes/design-nav-3.php:200 lib/admin/boxes/design-sidebars.php:158
+#: lib/admin/boxes/design-taxonomy.php:143 lib/admin/boxes/design-wrap.php:160
+#: lib/admin/boxes/design-wrap.php:173
+msgid "Bottom Margin"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:163
+msgid "Author Box Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-author.php:168
+#: lib/admin/boxes/design-breadcrumbs.php:104
+#: lib/admin/boxes/design-comments.php:585
+#: lib/admin/boxes/design-comments.php:602
+#: lib/admin/boxes/design-comments.php:619
+#: lib/admin/boxes/design-comments.php:662
+#: lib/admin/boxes/design-content.php:498
+#: lib/admin/boxes/design-content.php:528
+#: lib/admin/boxes/design-content.php:558
+#: lib/admin/boxes/design-content.php:588 lib/admin/boxes/design-ez.php:147
+#: lib/admin/boxes/design-ez.php:347 lib/admin/boxes/design-ez.php:517
+#: lib/admin/boxes/design-footer.php:106 lib/admin/boxes/design-post-nav.php:96
+#: lib/admin/boxes/design-search.php:168 lib/admin/boxes/design-search.php:185
+#: lib/admin/boxes/design-sidebars.php:169
+#: lib/admin/boxes/design-sidebars.php:186
+#: lib/admin/boxes/design-sidebars.php:220
+#: lib/admin/boxes/design-taxonomy.php:154
+#: lib/admin/boxes/design-taxonomy.php:171
+#: lib/admin/boxes/design-widgets.php:146
+#: lib/admin/boxes/design-widgets.php:296
+msgid "Padding: Top"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:12
+msgid "Body"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:16
+msgid "Google Font Control"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:22
+msgid "Add Google Fonts:"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:38
+msgid "Universal Link Transition"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:43
+msgid "Enable Link Transition"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:50
+msgid "Body Font"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:55 lib/admin/boxes/design-content.php:114
+#: lib/admin/boxes/design-content.php:151
+#: lib/admin/boxes/design-content.php:188
+#: lib/admin/boxes/design-content.php:225
+#: lib/admin/boxes/design-content.php:245 lib/admin/boxes/design-header.php:21
+#: lib/admin/boxes/design-header.php:57 lib/admin/boxes/design-search.php:21
+#: lib/admin/boxes/design-search.php:41
+msgid "Size"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:58
+msgid "Line Height"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:59
+msgid "Universal Font Unit"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:66
+msgid "Body Font Custom CSS | <code>body { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:73
+msgid "Body Background"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:80
+msgid "No-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:81
+msgid "No-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:82
+msgid "No-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:83
+msgid "No-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:84
+msgid "No-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:85
+msgid "No-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:86
+msgid "Horizontal-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:87
+msgid "Horizontal-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:88
+msgid "Horizontal-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:89
+msgid "Horizontal-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:90
+msgid "Horizontal-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:91
+msgid "Horizontal-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:92
+msgid "Vertical-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:93
+msgid "Vertical-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:94
+msgid "Vertical-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:95
+msgid "Vertical-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:96
+msgid "Vertical-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:97
+msgid "Vertical-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:98
+msgid "Horizontal & Vertical-Repeat Image"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:99
+msgid "Horizontal & Vertical-Repeat Image (Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:106
+msgid "Dynamik CSS"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:111
+msgid "Minify the Dynamik Stylesheet"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:112
+msgid "Click here to view the dynamik.css stylesheet"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:118
+msgid "Dynamik Skin CSS"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:123
+msgid "Click here to view the active Dynamik Skin's style.css file"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:129
+msgid "Font Awesome Styles"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:134
+msgid "Add Support For Font Awesome Icons"
+msgstr ""
+
+#: lib/admin/boxes/design-body.php:135
+msgid "Click here to view available icons"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:11
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:14
+msgid "Breadcrumbs Font"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:26
+msgid "Breadcrumbs Font Custom CSS | <code>.breadcrumb { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:33
+msgid "Breadcrumbs Link"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:50
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:63
+msgid "Breadcrumbs Border"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:86
+msgid "Breadcrumbs Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-breadcrumbs.php:99
+msgid "Breadcrumbs Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:11
+msgid "Comments"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:14
+msgid "Comment Heading Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:26
+msgid ""
+"Comment Heading Font Custom CSS | <code>#comments h3, #respond h3 { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:33
+msgid "Comment Author Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:45
+msgid ""
+"Comment Author Custom CSS | <code>.comment-author cite, .comment-author cite "
+"a, .comment-author .says { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:52
+msgid "Comment Author Link"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:69
+msgid "Comment Meta Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:80
+msgid "Comment Meta Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:87
+msgid "Comment Meta Link"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:104
+msgid "Comment \"Reply\" Text Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:115
+msgid ""
+"Comment \"Reply\" Text Font Custom CSS | <code>a.comment-reply-link { }</"
+"code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:122
+msgid "Comment \"Reply\" Text Link"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:139
+msgid "Comment Body Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:151
+msgid ""
+"Comment Body Font Custom CSS <code>.comment-content p, #respond p { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:158
+msgid "Comment Form Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:170
+msgid ""
+"Comment Form Font Custom CSS | <code>#author, #comment, #email, #url { }</"
+"code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:177
+msgid "Comment Link"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:194
+msgid "Submit Button Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:206
+msgid "Submit Button Font Custom CSS | <code>#commentform #submit { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:213
+msgid "Submit Button Text Hover"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:218 lib/admin/boxes/design-search.php:59
+msgid "Text Hover"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:219 lib/admin/boxes/design-search.php:60
+msgid "Text Hover Underline"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:229
+msgid "Comment Form Allowed Tags Font"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:241
+msgid ""
+"Comment Form Allowed Tags Font Custom CSS | <code>.form-allowed-tags { }</"
+"code>"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:248
+msgid "Comment Even Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:261
+msgid "Comment Alt Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:274
+msgid "Comment Reply Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:287
+msgid "Comment \"Reply\" Text Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:300
+msgid "Comment \"Reply\" Text Hover Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:313
+msgid "Comment Avatar Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:326
+msgid "Comment Form Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:339
+msgid "Submit Button Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:352
+msgid "Submit Button Hover Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:365
+msgid "Comment Form Allowed Tags Background"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:378
+msgid "Comment List Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:401
+msgid "Comment \"Reply\" Text Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:424
+msgid "Comment \"Reply\" Text Hover Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:447
+msgid "Comment Avatar Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:459
+#: lib/admin/boxes/design-content.php:469
+msgid "Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:466
+msgid "Comment Form Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:481
+msgid "Submit Button Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:496
+msgid "Submit Button Hover Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:511
+msgid "Comment Form Allowed Tags Border"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:526
+#: lib/admin/boxes/design-comments.php:539
+msgid "Comment Widths"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:531
+msgid "Author/Email/Url Form Widths"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:533
+msgid "Comment Avatar Size"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:544
+msgid "Comment Form Width"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:545
+msgid "(Blank = 98%) |"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:546
+msgid "Submit Button Width"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:547
+msgid "(Blank = auto)"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:554
+msgid "Comments Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:567
+msgid "Comment List Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:580
+msgid "Comment List Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:597
+msgid "Comment \"Reply\" Text Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:614
+msgid "Submit Button Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:631
+msgid "Comment's Bottom Nav Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:636
+#: lib/admin/boxes/design-header.php:185 lib/admin/boxes/design-header.php:210
+#: lib/admin/boxes/design-nav-1.php:283 lib/admin/boxes/design-nav-1.php:296
+msgid "Top Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:638
+msgid "Bottom Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:644
+msgid "Comment Form Allowed Tags Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-comments.php:657
+msgid "Comment Form Allowed Tags Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:11 lib/admin/boxes/design-widths.php:20
+#: lib/admin/boxes/design-widths.php:39 lib/admin/boxes/design-widths.php:58
+#: lib/admin/boxes/design-widths.php:77 lib/admin/boxes/design-widths.php:94
+#: lib/admin/boxes/design-widths.php:111
+msgid "Content"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:14
+msgid "Content Heading Font"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:19
+msgid "H1 - H6 Font Type"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:23
+msgid "Content Heading Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:30
+msgid "Content Heading Font Sizes H1-H2"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:35
+msgid "H1"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:38
+msgid "H2"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:45
+msgid "Content Heading Font Sizes H3-H6"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:50
+msgid "H3"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:53
+msgid "H4"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:56
+msgid "H5"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:59
+msgid "H6"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:66
+msgid "Content Heading Font Colors H1-H2"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:71
+msgid "(H1)"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:72
+msgid "(H2)"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:77
+msgid "Content Heading Font Colors H3-H6"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:82
+msgid "(H3)"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:83
+msgid "(H4)"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:84
+msgid "(H5)"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:85
+msgid "(H6)"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:90
+msgid "Content Heading Link Options H1/H2"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:107
+msgid "Content Byline Font"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:120
+msgid "Content Post Info Font Custom CSS | <code>.post-info { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:127
+msgid "Content Byline Link"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:144
+msgid "Content Paragraph Font"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:157
+msgid ""
+"Content Paragraph Font Custom CSS | <code>.entry-content p, .entry-content "
+"ul li, .entry-content ol li { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:164
+msgid "Content Paragraph Link"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:181
+msgid "Blockquote Font"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:194
+msgid "Blockquote Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:201
+msgid "Blockquote Link"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:218
+msgid "Image Caption Font"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:231
+msgid "Image Caption Font Custom CSS | <code>p.wp-caption-text { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:238
+msgid "Post-Meta Font"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:251
+msgid "Post-Meta Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:258
+msgid "Post-Meta Link"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:275
+msgid "Post Content Background"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:288
+msgid "Page Content Background"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:301
+msgid "Sticky Post Background"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:314
+msgid "Blockquote Background"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:327
+msgid "Image Caption Background"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:340
+msgid "Thumbnail Image Background"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:353
+msgid "Post Content Border"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:376
+msgid "Page Content Border"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:399
+msgid "Sticky Post Border"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:420
+msgid "Blockquote Border"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:442
+msgid "Image Caption Border"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:457
+msgid "Thumbnail Image Border"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:476
+msgid "Content Bottom Border"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:493
+msgid "Content Wrap Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:510
+msgid "Post Content Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:523
+msgid "Post Content Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:540
+msgid "Page Content Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:553
+msgid "Page Content Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:570
+msgid "Sticky Post Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:583
+msgid "Sticky Post Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:600
+msgid "Paragraph / List-Style Spacing"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:605
+msgid "Paragraph Bottom Margin"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:607
+msgid "List-Style Bottom Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:615
+msgid "Content List Style Type"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:620
+msgid "Content List Style"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:623
+#: lib/admin/boxes/design-sidebars.php:242
+msgid "disc"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:624
+#: lib/admin/boxes/design-sidebars.php:243
+msgid "circle"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:625
+#: lib/admin/boxes/design-sidebars.php:244
+msgid "square"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:632
+msgid "Content Filler Image"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:641
+msgid "Disabled"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:642
+msgid "Minimal"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:646
+msgid "Filler Color Type"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:648
+msgid "Transparent"
+msgstr ""
+
+#: lib/admin/boxes/design-content.php:652
+msgid "Filler Color"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:11
+msgid "Static Homepage EZ-Widget Areas"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:14
+msgid "Homepage Type"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:19
+msgid "WordPress Default Homepage"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:20
+msgid "EZ Static Homepage"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:25
+msgid "Static Homepage Structure"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:30
+msgid "Select A Static Homepage Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:33 lib/admin/boxes/design-ez.php:187
+#: lib/admin/boxes/design-ez.php:230 lib/admin/boxes/design-ez.php:400
+msgid "Examples"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:40
+msgid "EZ Home Widget Heading Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:52
+msgid ""
+"EZ Home Heading Font Custom CSS | <code>#ez-home-container-wrap .ez-widget-"
+"area h4 { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:59
+msgid "EZ Home Widget Content Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:70
+msgid ""
+"EZ Home Content Font Custom CSS | <code>#ez-home-container-wrap .ez-widget-"
+"area { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:77
+msgid "EZ Home Widget Content Link"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:94
+msgid "EZ Home BG"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:107
+msgid "EZ Home Heading Bottom Border"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:122
+msgid "EZ Home Border"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:142
+msgid "Static Homepage Wrap Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:163
+msgid "Homepage EZ-Widget Area Extras"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:166
+msgid "Static Homepage Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:171 lib/admin/boxes/design-ez.php:183
+#: lib/functions/skins.php:58
+msgid "Activate"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:172 lib/admin/boxes/design-ez.php:184
+msgid "Display Location"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:172
+msgid "Right of Content"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:173
+msgid "Left of Content"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:178
+msgid "Homepage Slider"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:184
+msgid "Outside Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:185
+msgid "Inside Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:186 lib/admin/boxes/design-nav-1.php:338
+#: lib/admin/boxes/design-nav-2.php:276 lib/admin/boxes/design-nav-3.php:253
+#: lib/admin/boxes/settings-general.php:186
+#: lib/admin/boxes/settings-general.php:201
+#: lib/admin/boxes/settings-general.php:216
+#: lib/admin/boxes/settings-general.php:231
+#: lib/admin/boxes/settings-general.php:246
+msgid "Height"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:192
+msgid "Feature Top EZ-Widget Areas"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:195
+msgid "Feature Top Display Locations"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:200 lib/admin/boxes/design-ez.php:370
+msgid "Home"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:201 lib/admin/boxes/design-ez.php:371
+msgid "Posts"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:202 lib/admin/boxes/design-ez.php:372
+msgid "Pages"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:203 lib/admin/boxes/design-ez.php:373
+msgid "Archives"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:204 lib/admin/boxes/design-ez.php:374
+msgid "Blog"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:205 lib/admin/boxes/design-ez.php:375
+#: lib/admin/boxes/settings-import-export.php:39
+#: lib/admin/boxes/settings-import-export.php:83
+msgid "Check"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:205 lib/admin/boxes/design-ez.php:375
+#: lib/admin/boxes/settings-import-export.php:39
+#: lib/admin/boxes/settings-import-export.php:83
+msgid "Uncheck"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:210
+msgid "Feature Top Display Position"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:215 lib/admin/boxes/design-ez.php:385
+msgid "Inside Inner Div"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:216 lib/admin/boxes/design-ez.php:386
+msgid "Outside Inner Div"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:222
+msgid "Feature Top Structure"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:227
+msgid "Select A Feature Top Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:237
+msgid "Feature Top Widget Heading Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:249
+msgid ""
+"EZ Feature Top Heading Font Custom CSS | <code>#ez-feature-top-container .ez-"
+"widget-area h4 { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:256
+msgid "Feature Top Widget Content Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:268
+msgid ""
+"EZ Feature Top Content Font Custom CSS | <code>#ez-feature-top-container .ez-"
+"widget-area { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:275
+msgid "Feature Top Widget Content Link"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:292
+msgid "Feature Top Container Wrap BG"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:305
+msgid "Feature Top Heading Bottom Border"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:320
+msgid "Feature Top Container Wrap Border"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:342
+msgid "Feature Top Container Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:362
+msgid "Fat Footer EZ-Widget Areas"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:365
+msgid "Fat Footer Display Locations"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:380
+msgid "Fat Footer Display Position"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:392
+msgid "Fat Footer Structure"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:397
+msgid "Select A Fat Footer Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:407
+msgid "Fat Footer Widget Heading Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:419
+msgid ""
+"EZ Fat Footer Heading Font Custom CSS | <code>#ez-fat-footer-container .ez-"
+"widget-area h4 { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:426
+msgid "Fat Footer Widget Content Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:438
+msgid ""
+"EZ Fat Footer Content Font Custom CSS | <code>#ez-fat-footer-container .ez-"
+"widget-area { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:445
+msgid "Fat Footer Widget Content Link"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:462
+msgid "Fat Footer Container Wrap BG"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:475
+msgid "Fat Footer Heading Bottom Border"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:490
+msgid "Fat Footer Container Wrap Border"
+msgstr ""
+
+#: lib/admin/boxes/design-ez.php:512
+msgid "Fat Footer Container Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:11
+msgid "Footer"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:14
+msgid "Footer Font"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:26
+msgid "Footer Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:33
+msgid "Footer Link"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:50
+msgid "Footer Background"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:63
+msgid "Footer Border"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:86
+msgid "Footer Dimensions"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:91
+msgid "\"Go To Top\" Width"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:93
+msgid "Footer Credits Width"
+msgstr ""
+
+#: lib/admin/boxes/design-footer.php:101
+msgid "Footer Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:11
+msgid "Header | Logo"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:14
+msgid "Header Title Font"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:27
+msgid "Title Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:34
+msgid "Header Title Link"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:39
+msgid "Link Hover Color"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:50
+msgid "Header Tagline Font"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:63
+msgid "Tagline Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:70
+msgid "Header Background"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:83
+msgid "Header Border"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:104
+msgid "Fixed Header Options"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:109
+msgid "Enable Fixed Header"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:111
+msgid "Enable Fade-In Effect"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:117
+msgid "Header Dimensions"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:122
+msgid "Header Minimum Height"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:127
+msgid "Select Logo Alignment/Type"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:132
+msgid "Center Title Area/Logo"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:134
+msgid "Select a Logo Type"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:135
+msgid "HERE"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:140
+msgid "Select Logo Image"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:145
+msgid "Logo Image"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:146
+msgid "Add Retina-Ready Logo"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:152
+msgid "Select Retina Logo Image"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:157
+msgid "Retina Logo Image"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:162
+msgid "Header Title Area Dimensions"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:167
+msgid "Title Area Width"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:174
+msgid "Title Area Height (Image Logo Only)"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:180
+msgid "Header Text Title Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:186
+msgid "Left Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:187
+msgid "Tagline Top Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:192
+msgid "Header Image Logo Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:199
+msgid "Left Margin"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:204
+msgid "Header Widget Area Styles"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:209 lib/admin/boxes/design-nav-1.php:312
+#: lib/admin/boxes/design-nav-1.php:336 lib/admin/boxes/design-nav-2.php:250
+#: lib/admin/boxes/design-nav-2.php:274 lib/admin/boxes/design-nav-3.php:227
+#: lib/admin/boxes/design-nav-3.php:251 lib/admin/boxes/design-search.php:156
+#: lib/admin/boxes/settings-general.php:185
+#: lib/admin/boxes/settings-general.php:200
+#: lib/admin/boxes/settings-general.php:215
+#: lib/admin/boxes/settings-general.php:230
+#: lib/admin/boxes/settings-general.php:245
+msgid "Width"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:211 lib/admin/boxes/design-nav-1.php:285
+#: lib/admin/boxes/design-nav-1.php:298
+msgid "Right Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-header.php:212
+msgid "Text Align"
+msgstr ""
+
+#: lib/admin/boxes/design-image-uploader.php:19
+msgid "Image Uploader: Images are uploaded to the"
+msgstr ""
+
+#: lib/admin/boxes/design-image-uploader.php:19
+msgid "directory."
+msgstr ""
+
+#: lib/admin/boxes/design-image-uploader.php:29
+msgid "Please wait, uploading image."
+msgstr ""
+
+#: lib/admin/boxes/design-image-uploader.php:51
+msgid "Deselect All"
+msgstr ""
+
+#: lib/admin/boxes/design-image-uploader.php:52
+msgid "Select All"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:11
+msgid "Dynamik Skin Import/Export"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:17
+msgid ""
+"Skin Import Error: Import File Must Be In .zip or .dat Format (ie. my_skin."
+"zip or my_skin.dat)"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:21
+msgid ""
+"Skin Import Error: It appears you are trying to Import an older/incompatible "
+"Catalyst/Dynamik Skin."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:25
+msgid ""
+"Skin Import Complete: Please note that since this was a Catalyst/Dynamik "
+"Skin, and therefore not 100% transferable, you may need to tweak the options "
+"a bit to get the design just right."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:30
+msgid "Dynamik Skin Export"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:36
+msgid "Skin File Name:"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:37
+msgid "Settings Only?"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:38
+msgid "Export Skin"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:45
+msgid "Dynamik Skin Import"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:51
+msgid "Skin Import File:"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:52
+msgid "Import Skin"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:60
+msgid "Genesis Child Theme Export"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:65
+msgid "How To Use Genesis Child Theme Export:"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:67
+msgid ""
+"<span style=\"font-family:verdana, sans-serif; font-weight:bold; font-"
+"size:14px; color:#014662;\">Step 1:</span> Fill in the Form Fields."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:72
+msgid ""
+"<span style=\"font-family:verdana, sans-serif; font-weight:bold; font-"
+"size:14px; color:#014662;\">Step 2:</span> Choose whether or not to include "
+"a reference to the Genesis style.css file in your Child Theme's stylesheet."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:77
+msgid ""
+"<span style=\"font-family:verdana, sans-serif; font-weight:bold; font-"
+"size:14px; color:#014662;\">Step 3:</span> Choose whether or not to include "
+"the default Page Templates included with Dynamik (landing.php & page-builder."
+"php) as well as your current \"Dynamik Protected Folders\"."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:82
+msgid ""
+"<span style=\"font-family:verdana, sans-serif; font-weight:bold; font-"
+"size:14px; color:#014662;\">Step 4:</span> Choose whether or not to include "
+"your current Dynamik \"Theme Settings\"."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:87
+msgid ""
+"<span style=\"font-family:verdana, sans-serif; font-weight:bold; font-"
+"size:14px; color:#014662;\">Step 5:</span> Choose whether or not to include "
+"any or all of your current Dynamik Design and/or Custom content."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:92
+msgid ""
+"<span style=\"font-family:verdana, sans-serif; font-weight:bold; font-"
+"size:14px; color:#014662;\">Step 6:</span> Click the \"Export Genesis Child "
+"Theme\" button."
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:101
+msgid "Theme Name"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:102
+msgid "Author"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:103
+msgid "Author URI"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:104
+msgid "Version #"
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:106
+msgid "Include Reference To Genesis style.css? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:107
+msgid "Include Default Page Templates? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:108
+msgid "Include \"Dynamik Protected Folders\"? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:109
+msgid "Include Dynamik \"Theme Settings\"? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:110
+msgid "Include Dynamik \"Design Options\"? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:111
+msgid "Include Dynamik Custom > Custom CSS? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:112
+msgid "Include Dynamik Custom > Custom Functions? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:113
+msgid "Include Dynamik Custom > Custom Javascript? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:114
+msgid "Include Dynamik Custom > Custom Templates? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:115
+msgid "Include Dynamik Custom > Custom Labels? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:116
+msgid "Include Dynamik Custom > Custom Widget Areas? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:117
+msgid "Include Dynamik Custom > Custom Hook Boxes? "
+msgstr ""
+
+#: lib/admin/boxes/design-import-export.php:119
+msgid "Export Genesis Child Theme"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:11
+msgid "Nav"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:16 lib/admin/boxes/design-nav-2.php:16
+#: lib/admin/boxes/design-nav-3.php:14
+msgid "Main Font"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:33
+msgid "Nav Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:40 lib/admin/boxes/design-nav-2.php:40
+#: lib/admin/boxes/design-nav-3.php:38
+msgid "Inactive/Hover/Active Page Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:45 lib/admin/boxes/design-nav-2.php:45
+#: lib/admin/boxes/design-nav-3.php:43
+msgid "Inactive Color"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:46 lib/admin/boxes/design-nav-1.php:60
+#: lib/admin/boxes/design-nav-2.php:46 lib/admin/boxes/design-nav-2.php:60
+#: lib/admin/boxes/design-nav-3.php:44 lib/admin/boxes/design-nav-3.php:58
+msgid "Hover Color"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:47 lib/admin/boxes/design-nav-2.php:47
+#: lib/admin/boxes/design-nav-3.php:45
+msgid "Active Color"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:52 lib/admin/boxes/design-nav-2.php:52
+#: lib/admin/boxes/design-nav-3.php:50
+msgid "Sub-Page Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:65
+msgid "Nav \"Extras\" Font"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:77
+msgid ""
+"Nav \"Extras\" Font Custom CSS | <code>.genesis-nav-menu li.right { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:84
+msgid "Nav \"Extras\" Link"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:101 lib/admin/boxes/design-nav-2.php:65
+#: lib/admin/boxes/design-nav-3.php:63
+msgid "Main Background"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:114 lib/admin/boxes/design-nav-2.php:78
+#: lib/admin/boxes/design-nav-3.php:76
+msgid "Inactive Page Background"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:127 lib/admin/boxes/design-nav-2.php:91
+#: lib/admin/boxes/design-nav-3.php:89
+msgid "Page Hover Background"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:140 lib/admin/boxes/design-nav-2.php:104
+#: lib/admin/boxes/design-nav-3.php:102
+msgid "Active Page Background"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:153 lib/admin/boxes/design-nav-2.php:117
+#: lib/admin/boxes/design-nav-3.php:115
+msgid "Sub-Page Background"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:166 lib/admin/boxes/design-nav-2.php:130
+#: lib/admin/boxes/design-nav-3.php:128
+msgid "Sub-Page Hover Background"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:179 lib/admin/boxes/design-nav-2.php:143
+#: lib/admin/boxes/design-nav-3.php:141
+msgid "Main Border"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:200 lib/admin/boxes/design-nav-1.php:217
+#: lib/admin/boxes/design-nav-2.php:164 lib/admin/boxes/design-nav-2.php:181
+#: lib/admin/boxes/design-nav-3.php:162 lib/admin/boxes/design-nav-3.php:179
+msgid "Individual Page Border"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:205 lib/admin/boxes/design-nav-2.php:169
+#: lib/admin/boxes/design-nav-3.php:167
+msgid "Thickness:"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:207 lib/admin/boxes/design-nav-2.php:171
+#: lib/admin/boxes/design-nav-3.php:169
+msgid "Btm"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:208 lib/admin/boxes/design-nav-2.php:172
+#: lib/admin/boxes/design-nav-3.php:170
+msgid "Lft"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:209 lib/admin/boxes/design-nav-2.php:173
+#: lib/admin/boxes/design-nav-3.php:171
+msgid "Rt"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:222 lib/admin/boxes/design-nav-2.php:186
+#: lib/admin/boxes/design-nav-3.php:184
+msgid "Colors: Inactive"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:223 lib/admin/boxes/design-nav-2.php:187
+#: lib/admin/boxes/design-nav-3.php:185
+msgid "Hover"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:224 lib/admin/boxes/design-nav-2.php:188
+#: lib/admin/boxes/design-nav-3.php:186
+msgid "Active"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:231
+msgid "Nav Placement"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:236
+msgid "Location Of Nav"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:237 lib/admin/boxes/design-nav-2.php:201
+msgid "Above Header"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:238 lib/admin/boxes/design-nav-2.php:202
+msgid "Below Header"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:240 lib/admin/boxes/design-nav-2.php:204
+msgid "Alignment"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:252
+msgid "Nav Wrap Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:265 lib/admin/boxes/design-nav-2.php:229
+#: lib/admin/boxes/design-nav-3.php:206
+msgid "Individual Page Margins/Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:270 lib/admin/boxes/design-nav-2.php:234
+#: lib/admin/boxes/design-nav-3.php:211 lib/admin/boxes/design-post-nav.php:109
+msgid "Margin: Left"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:272 lib/admin/boxes/design-nav-1.php:314
+#: lib/admin/boxes/design-nav-2.php:236 lib/admin/boxes/design-nav-2.php:252
+#: lib/admin/boxes/design-nav-3.php:213 lib/admin/boxes/design-nav-3.php:229
+#: lib/admin/boxes/design-post-nav.php:113
+msgid "Padding: Top/Btm"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:273 lib/admin/boxes/design-nav-1.php:315
+#: lib/admin/boxes/design-nav-2.php:237 lib/admin/boxes/design-nav-2.php:253
+#: lib/admin/boxes/design-nav-3.php:214 lib/admin/boxes/design-nav-3.php:230
+#: lib/admin/boxes/design-post-nav.php:115
+msgid "Lft/Rt"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:278
+msgid "Nav \"Extras\" Text Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:291
+msgid "Nav \"Extras\" Search Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:306 lib/admin/boxes/design-nav-2.php:244
+#: lib/admin/boxes/design-nav-3.php:221
+msgid "Submenu"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:311 lib/admin/boxes/design-nav-2.php:249
+#: lib/admin/boxes/design-nav-3.php:226
+msgid "Border Color"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:322 lib/admin/boxes/design-nav-2.php:260
+#: lib/admin/boxes/design-nav-3.php:237
+msgid "Sub-Indicator"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-1.php:330 lib/admin/boxes/design-nav-2.php:268
+#: lib/admin/boxes/design-nav-3.php:245
+msgid "Text"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-2.php:11
+msgid "Subnav"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-2.php:33
+msgid "Subnav Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-2.php:195
+msgid "Subnav Placement"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-2.php:200
+msgid "Location Of Subnav"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-2.php:216
+msgid "Subnav Wrap Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-3.php:11
+msgid "Header Nav"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-3.php:31
+msgid "Header Nav Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-nav-3.php:193
+msgid "Header Nav Wrap Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:11
+msgid "Post Navigation"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:14
+msgid "Post Nav Font"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:25
+msgid "Post Nav Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:32
+msgid "Post Nav Link"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:49
+msgid "Post Nav Inactive Numeric BG"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:62
+msgid "Post Nav Active Numeric BG"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:75
+msgid "Post Nav Numeric Border"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:91
+msgid "Post Nav Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-post-nav.php:104
+msgid "Post Nav Numeric Margins/Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:11
+msgid "Responsive"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:12
+msgid "Show/Hide Options"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:19
+msgid "Meta/Script Options"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:29
+msgid "Default Media Query Options"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:33
+msgid "Site #wrap Media Query Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:34
+#: lib/admin/boxes/design-responsive.php:44
+#: lib/admin/boxes/design-responsive.php:62
+#: lib/admin/boxes/design-responsive.php:73
+#: lib/admin/boxes/design-responsive.php:105
+#: lib/admin/boxes/design-responsive.php:116
+msgid "Default"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:43
+msgid "Navbar Media Query Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:45
+msgid "Vertical Mobile"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:46
+msgid "Vertical Toggle Tablet"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:47
+msgid "Vertical Toggle Mobile"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:48
+msgid "Tablet Dropdown"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:49
+msgid "Mobile Dropdown"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:52
+msgid "Delay?"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:61
+msgid "Header Media Query Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:63
+#: lib/admin/boxes/design-responsive.php:74
+#: lib/admin/boxes/design-responsive.php:106
+msgid "Delayed"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:72
+msgid "Content/Sidebar Media Query Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:77
+msgid "Pad?"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:86
+msgid "Delayed Title Area Width:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:94
+msgid "Delayed Sidebar Width:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:104
+msgid "EZ Widget Area Media Query Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:115
+msgid "Footer Media Query Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:127
+msgid "Vertical Menu Sub-Page \"Pre-Text\":"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:134
+msgid "Vertical Menu Sub-Page Text-Align"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:147
+msgid "Toggle/Dropdown Menu 1 Text:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:155
+msgid "Toggle/Dropdown Menu 2 Text:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:162
+msgid ""
+"<strong>Are you using a Header Menu?</strong> Use Primary Menu as a mobile "
+"version of the Header Menu"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:169
+msgid "Be sure to assign your Tablet/Mobile Dropdown Menus a Custom Menu in"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:170
+msgid "Appearance > Menus > Theme Locations"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:176
+msgid "Dropdown Menu 1 Hamburger Icon Margin Top:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:184
+msgid "Dropdown Menu 2 Hamburger Icon Margin Top:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:195
+msgid ""
+"Reveal ALL pages (including sub-pages) upon clicking the Vertical Toggle menu"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:196
+msgid "(leave unchecked for hover-dropdown effect)"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:197
+msgid ""
+"<strong>Please Note:</strong> If Dynamik Settings > General > \"Fancy "
+"Dropdowns\" are disabled then ALL pages will be revealed regardless of the "
+"above setting."
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:203
+msgid "(Primary Navigation) Vertical Toggle Menu Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:211
+msgid "(Secondary Navigation) Vertical Toggle Menu Styles:"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:240
+msgid "Tablet Landscape Cascading @media query <strong>(1st)</strong>"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:252
+msgid "Tablet Landscape Specific @media query <strong>(2nd)</strong>"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:264
+msgid ""
+"Tablet Portrait to Tablet Landscape Specific @media query <strong>(3rd)</"
+"strong>"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:276
+msgid "Tablet Portrait Cascading @media query <strong>(4th)</strong>"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:288
+msgid ""
+"Mobile Landscape to Tablet Portrait Specific @media query <strong>(5th)</"
+"strong>"
+msgstr ""
+
+#: lib/admin/boxes/design-responsive.php:300
+msgid "Mobile Portrait Specific @media query <strong>(6th)</strong>"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:11
+msgid "Search / eNews"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:14
+msgid "Search Form Font"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:27
+msgid "Search Form Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:34
+msgid "Search Button Font"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:47
+msgid "Search Button Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:54
+msgid "Search Button Text Hover"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:70
+msgid "Search Form Background"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:83
+msgid "Search Button Background"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:96
+msgid "Search Button Hover Background"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:109
+msgid "Search Form Border"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:123
+msgid "Search Button Border"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:137
+msgid "Search Button Hover Border"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:151
+msgid "Search Form Width"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:163
+msgid "Search Form Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-search.php:180
+msgid "Search Button Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:11
+msgid "Sidebars"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:14
+msgid "Sidebar Heading Font"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:26
+msgid "Sidebar Heading Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:33
+msgid "Sidebar Content Font"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:45
+msgid "Sidebar Content Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:52
+msgid "Sidebar Content Link"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:69
+msgid "Sidebar Heading Background"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:82
+msgid "Sidebar Content Background"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:95
+msgid "Sidebar Heading Border"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:114
+msgid "Sidebar Content Border"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:134
+msgid "Sidebar List-Style Bottom Border"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:151
+msgid "Sidebar Widget Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:164
+msgid "Sidebar Heading Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:181
+msgid "Sidebar Content Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:198
+msgid "Sidebar List-Style Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:203
+#: lib/admin/boxes/design-widgets.php:129
+#: lib/admin/boxes/design-widgets.php:279
+msgid "Margin: Top"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:215
+msgid "Sidebar List-Style Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:234
+msgid "Sidebar List-Style"
+msgstr ""
+
+#: lib/admin/boxes/design-sidebars.php:239
+msgid "Sidebar List Style"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:11
+msgid "Dynamik Skins"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:17
+msgid "Create & Activate"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:27
+msgid "Skin Import Complete"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:31
+msgid "Dynamik Skin Update Complete"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:35
+msgid "Dynamik Skin Copy Complete"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:39
+msgid "Dynamik Skin File Updated"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:43
+msgid "Error: Dynamik Skin Name Already Exists"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:47
+msgid "Error: Dynamik Skin With This Name Already Exists"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:60
+msgid "Active Skin <code>style.css</code> File"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:66
+msgid "Save Styles"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:81
+msgid "Active Skin <code>functions.php</code> File"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:87
+msgid "Save Functions"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:102
+msgid "Active Skin <code>scripts.js</code> File"
+msgstr ""
+
+#: lib/admin/boxes/design-skins.php:108
+msgid "Save Scripts"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:11
+msgid "Taxonomy/Author Title Boxes"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:14
+msgid "Taxonomy Box Heading Font"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:26
+msgid "Taxonomy Box Heading Font Custom CSS | <code>"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:33
+msgid "Taxonomy Box Content Font"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:45
+msgid ""
+"Taxonomy Box Content Font Custom CSS | <code>.taxonomy-description { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:52
+msgid "Taxonomy Box Content Link"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:69
+msgid "Taxonomy Box Heading Background"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:82
+msgid "Taxonomy Box Content Background"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:95
+msgid "Taxonomy Box Heading Border"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:114
+msgid "Taxonomy Box Content Border"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:136
+msgid "Taxonomy Box Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:149
+msgid "Taxonomy Box Heading Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-taxonomy.php:166
+msgid "Taxonomy Box Content Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:11
+msgid "Universal Design Control"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:19
+msgid "Included Sections:"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:20
+msgid "Include All"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:20
+msgid "Exclude All"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:44
+msgid "Fonts Types Affected:"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:45
+msgid "Affect All"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:45
+msgid "Affect Headings"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:45
+msgid "Affect Content"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:48
+msgid "Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:59
+#: lib/admin/boxes/design-universal-control.php:95
+#: lib/admin/boxes/design-universal-control.php:112
+msgid "Sync"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:61
+msgid "Font Custom CSS"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:68
+msgid "Font Links"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:87
+msgid "Backgrounds"
+msgstr ""
+
+#: lib/admin/boxes/design-universal-control.php:103
+msgid "Borders"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:12
+msgid "Featured Post/Page Widget"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:15
+msgid "Featured Widget Heading Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:26
+msgid ""
+"Featured Widget Heading Font Custom CSS | <code>.featuredpage .page h2, ."
+"featuredpost .post h2 { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:33
+msgid "Featured Widget Heading Link"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:50
+msgid "Featured Widget Byline Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:62
+msgid "Featured Widget Byline Font Custom CSS<code>.featuredpage .page "
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:69
+msgid "Featured Widget Byline Link"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:86
+msgid "Featured Widget Paragraph Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:98
+msgid ""
+"Featured Widget Paragraph Font Custom CSS | <code>.featuredpage .page p, ."
+"featuredpost .post p { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:105
+msgid "Featured Widget Paragraph Link"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:124
+msgid "Featured Widget Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:141
+msgid "Featured Widget Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:161
+msgid "Column Class Compatible"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:166
+msgid "Custom Widget Heading Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:178
+msgid ""
+"Text Widget Content Font Custom CSS | <code>.dynamik-widget-area h4 { }</"
+"code>"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:185
+msgid "Custom Widget Content Fonts"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:197
+msgid ""
+"Text Widget Content Font Custom CSS | <code>.dynamik-widget-area { }</code>"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:204
+msgid "Custom Widget Content Link"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:221
+msgid "Custom Widget Background"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:234
+msgid "Custom Widget Border"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:255
+msgid "Custom Widget Width"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:260
+msgid "Widget Width"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:261
+msgid " |"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:262
+msgid "( Blank = No Set Width )"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:263
+msgid "Widget Float"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:274
+msgid "Custom Widget Margins"
+msgstr ""
+
+#: lib/admin/boxes/design-widgets.php:291
+msgid "Custom Widget Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:11
+msgid "Layout Widths"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:15
+msgid "Content-Sidebar-Sidebar Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:22 lib/admin/boxes/design-widths.php:41
+#: lib/admin/boxes/design-widths.php:60 lib/admin/boxes/design-widths.php:79
+#: lib/admin/boxes/design-widths.php:96
+msgid "Prim. Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:24 lib/admin/boxes/design-widths.php:43
+#: lib/admin/boxes/design-widths.php:62
+msgid "Sec. Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:26 lib/admin/boxes/design-widths.php:45
+#: lib/admin/boxes/design-widths.php:64 lib/admin/boxes/design-widths.php:81
+#: lib/admin/boxes/design-widths.php:98 lib/admin/boxes/design-widths.php:113
+msgid "Wrap Width: "
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:34
+msgid "Sidebar-Sidebar-Content Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:53
+msgid "Sidebar-Content-Sidebar Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:72
+msgid "Content-Sidebar Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:89
+msgid "Sidebar-Content Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-widths.php:106
+msgid "Full Width Content Layout"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:11
+msgid "Wrap"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:14
+msgid "Wrap Background"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:27
+msgid "Inner Background"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:40
+msgid "Wrap Border"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:58
+msgid "Inner Border"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:76
+msgid "Wrap Box Shadow"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:81
+msgid "Enable Wrap Box Shadow"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:88
+msgid "Inner Box Shadow"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:93
+msgid "Enable Inner Box Shadow"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:99
+msgid "General Box Shadow"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:104
+msgid "Enable General Box Shadow"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:108
+msgid "General Box Shadow Elements"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:115
+msgid "Wrap Border Radius"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:120
+msgid "Enable Wrap Border Radius"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:126
+msgid "Inner Border Radius"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:131
+msgid "Enable Inner Border Radius"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:137
+msgid "General Border Radius"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:142
+msgid "Enable General Border Radius"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:146
+msgid "General Border Radius Elements"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:153
+msgid "Wrap Margin"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:166
+msgid "Inner Margin"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:179
+msgid "Wrap Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:184
+msgid "Top/Bottom Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:186
+msgid "Left/Right Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:192
+msgid "Inner Padding"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:201
+msgid "Sidebar Separation"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:211
+msgid "Site Structure Preview"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:221
+msgid "Wrap Structure Options"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:225
+msgid "Fixed Design"
+msgstr ""
+
+#: lib/admin/boxes/design-wrap.php:229
+msgid "Fluid Design"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:10
+msgid "General Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:16
+msgid "Page Titles"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:20
+msgid "Remove All Page Titles"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:25
+msgid "Remove Specific Page Titles By IDs: (ie. 2,17 etc.)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:30
+msgid "Page ID Reference:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:45
+msgid "Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:49
+msgid "Include Theme In-Post Options With All Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:55
+msgid "Include Theme In-Post Options With Specific Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:60
+msgid "Add Custom Post Type Names Below: (ie. products,recipes etc.)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:65
+msgid "Custom Post Type Name Reference"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:89
+msgid "WordPress Post Formats"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:93
+msgid "Activate WordPress Post Formats"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:102
+msgid "Dynamik Protected Folders"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:106
+msgid "Protect Specific Folders From Dynamik Auto-Updates"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:109
+msgid "Add Protected Folder Names Below: (ie. folder-1,folder-2 etc.)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:118
+msgid "Responsive Design"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:121
+msgid "Enable Responsive Design Options In Dynamik."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:130
+msgid "Design Options Control"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:134
+msgid "Structure & Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:135
+msgid "Design Standard"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:136
+msgid "Kitchen Sink"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:144
+msgid "Dynamik Footer Link"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:148
+msgid "Add Your Dynamik Affiliate Link Below"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:148
+msgid "Sign Up"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:160
+msgid "Custom Thumbnail Sizes"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:164
+msgid "Please Note The Following For Proper Use:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:167
+msgid "- The \"Mode\" value must be set for the Custom Thumbnail to work."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:171
+msgid "- custom-thumb-1 must be set in order for thumb-2 through 5 to work."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:176
+msgid "custom-thumb-1"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:179
+#: lib/admin/boxes/settings-general.php:194
+#: lib/admin/boxes/settings-general.php:209
+#: lib/admin/boxes/settings-general.php:224
+#: lib/admin/boxes/settings-general.php:239
+msgid "Mode"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:182
+#: lib/admin/boxes/settings-general.php:197
+#: lib/admin/boxes/settings-general.php:212
+#: lib/admin/boxes/settings-general.php:227
+#: lib/admin/boxes/settings-general.php:242
+msgid "Resize"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:183
+#: lib/admin/boxes/settings-general.php:198
+#: lib/admin/boxes/settings-general.php:213
+#: lib/admin/boxes/settings-general.php:228
+#: lib/admin/boxes/settings-general.php:243
+msgid "Crop"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:191
+msgid "custom-thumb-2"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:206
+msgid "custom-thumb-3"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:221
+msgid "custom-thumb-4"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:236
+msgid "custom-thumb-5"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:254
+msgid "Dynamik URL Protocols"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:258
+msgid "Enable Protocol Relative URLs"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:267
+msgid "Genesis Column Classes"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:271
+msgid "Enable Genesis \"Twitter Bootstrap\" Column Classes"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:287
+msgid "Genesis HTML5 Markup"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:291
+msgid "Activate Genesis HTML5 Markup"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:300
+msgid "Genesis \"Fancy Dropdowns\""
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:304
+msgid "Enable Genesis Menu \"Fancy Dropdowns\""
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:15
+msgid ""
+"Settings/Custom Import Error: Import File Must Be In .dat Format (ie. "
+"my_backup.dat)"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:19
+msgid "Settings/Custom Import Complete"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:23
+msgid ""
+"Dynamik Theme Clone Complete. You should now de-activate the Dynamik Theme "
+"to use the Genesis Extender Plugin."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:27
+msgid ""
+"Genesis Extender Plugin Clone Complete. You should now de-activate the "
+"Genesis Extender Plugin to use the Dynamik Theme."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:33
+msgid "Dynamik Settings/Custom Import/Export"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:39
+msgid "Export Settings/Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:42
+#: lib/admin/boxes/settings-import-export.php:86
+msgid "Theme Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:51
+#: lib/admin/boxes/settings-import-export.php:95
+msgid "Custom JS"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:73
+msgid "Export Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:83
+msgid "Import Settings/Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:117
+msgid "Import Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:131
+msgid ""
+"The Genesis Extender Plugin is currently active and therefore you can use "
+"the \"Clone Options\" feature below to transfer either the Dynamik Child "
+"Theme's Settings, In-Post Metadata & Images over to the Genesis Extender "
+"Plugin, or transfer the Genesis Extender Plugin's Settings, In-Post Metadata "
+"& Images over to the Dynamik Child Theme."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:137
+msgid "Dynamik Theme/Genesis Extender Plugin Cloning"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:143
+msgid "Clone Dynamik Theme --> to --> Genesis Extender Plugin"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:145
+msgid ""
+"In this scenario you would be taking ALL of your Dynamik Child Theme "
+"Settings, In-Post Metadata & Images and Importing them into the currently "
+"active Genesis Extender Plugin. The assumption would be that after you take "
+"this action you would de-activate the Dynamik Theme and use the Genesis "
+"Extender Plugin."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:148
+msgid "Include Theme Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:151
+msgid "Include Theme Metadata (Custom Label In-Post Settings)"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:154
+msgid ""
+"<strong>Please Note:</strong> This will wipe out your Dynamik Custom Label "
+"In-Post Metadata upon transferring it to Genesis Extender."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:157
+msgid "Include Theme Images"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:157
+#: lib/admin/boxes/settings-import-export.php:181
+msgid "Clone Now"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:157
+msgid ""
+"Are you sure your want to do this? This will completely overwrite the "
+"currently active Genesis Extender Plugin Settings & Images with the "
+"currently active Dynamik Theme Settings & Images. This cannot be undone."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:167
+msgid "Clone Genesis Extender Plugin --> to --> Dynamik Theme"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:169
+msgid ""
+"In this scenario you would be taking ALL of your Genesis Extender Plugin "
+"Settings, In-Post Metadata & Images and Importing them into the currently "
+"active Dynamik Child Theme. The assumption would be that after you take this "
+"action you would de-activate the Genesis Extender Plugin and use the Dynamik "
+"Theme."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:172
+msgid "Include Plugin Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:175
+msgid "Include Plugin Metadata (Custom Label In-Post Settings)"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:178
+msgid ""
+"<strong>Please Note:</strong> This will wipe out your Genesis Extender "
+"Custom Label In-Post Metadata upon transferring it to Dynamik."
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:181
+msgid "Include Plugin Images"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:181
+msgid ""
+"Are you sure your want to do this? This will completely overwrite the "
+"currently active Dynamik Theme Settings & Images with the currently active "
+"Genesis Extender Plugin Settings & Images. This cannot be undone."
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:15
+msgid ""
+"It appears that some of your files/folders are unwritable to Dynamik. Please "
+"refer to"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:15
+msgid "THIS KNOWLEDGEABLE ARTICLE"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:15
+msgid "for a possible solution."
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:21
+msgid "Dynamik General Information"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:23
+msgid "Using The Dynamik [?]Tooltips"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:26
+msgid ""
+"Throughout the entire Dynamik admin interface are [?]Tooltips that link to "
+"appropriate knowledge base articles to help clarify and explain how the "
+"various options and features work. So if you find an option or setting to be "
+"unclear, chances are the nearest Tooltip will provide explanation."
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:34
+msgid "Version Information"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:37
+msgid "PHP Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:41
+msgid "WordPress Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:45
+msgid "Genesis Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:49
+msgid "Dynamik Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:53
+msgid "Font Awesome Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:66
+msgid "Dynamik Links & Resources"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:68
+msgid "Dynamik Docs & Support"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:71
+msgid "1. Check out the knowledge base:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:78
+msgid "2. Use the form to email support on the \"My Account\" page:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:84
+msgid "Make Money Promoting Dynamik"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:87
+msgid ""
+"Help promote Dynamik and turn a profit by joining our affiliate program:"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:103
+msgid "Dynamik License Activation"
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:106
+msgid "Manage your Dynamik license in "
+msgstr ""
+
+#: lib/admin/boxes/settings-theme-info.php:106
+msgid "(Appearance > Dynamik License)"
+msgstr ""
+
+#: lib/admin/build-menu.php:28
+msgid "Dynamik Settings"
+msgstr ""
+
+#: lib/admin/build-menu.php:35
+msgid "Dynamik Design"
+msgstr ""
+
+#: lib/admin/build-menu.php:44
+msgid "Dynamik Custom"
+msgstr ""
+
+#: lib/admin/build-menu.php:82
+msgid "Template Type"
+msgstr ""
+
+#: lib/admin/build-menu.php:87
+msgid "Hook"
+msgstr ""
+
+#: lib/admin/build-menu.php:96
+msgid "Conditionals"
+msgstr ""
+
+#: lib/admin/custom-options.php:63
+msgid "Dynamik - Custom Options"
+msgstr ""
+
+#: lib/admin/custom-options.php:66 lib/admin/design-options.php:84
+msgid "CSS Builder"
+msgstr ""
+
+#: lib/admin/custom-options.php:70
+msgid "PHP Builder"
+msgstr ""
+
+#: lib/admin/custom-options.php:84 lib/admin/design-options.php:168
+#: lib/admin/fe-style-editor/style-editor.php:44
+#: lib/admin/theme-settings.php:51
+msgid "Save Changes"
+msgstr ""
+
+#: lib/admin/custom-options.php:111
+msgid "Custom Options Reset"
+msgstr ""
+
+#: lib/admin/custom-options.php:117
+msgid "Reset Custom Options"
+msgstr ""
+
+#: lib/admin/custom-options.php:117
+msgid "Are you sure your want to reset your Dynamik Custom Options?"
+msgstr ""
+
+#: lib/admin/design-options.php:81
+msgid "Dynamik - Design Options"
+msgstr ""
+
+#: lib/admin/design-options.php:115
+msgid "U-Control"
+msgstr ""
+
+#: lib/admin/design-options.php:207
+msgid "Design Options Reset"
+msgstr ""
+
+#: lib/admin/design-options.php:213
+msgid "Reset Design Options"
+msgstr ""
+
+#: lib/admin/design-options.php:213
+msgid "Are you sure your want to reset your Dynamik Design Options?"
+msgstr ""
+
+#: lib/admin/design-options.php:217
+msgid "Undo Last Save"
+msgstr ""
+
+#: lib/admin/design-options.php:217
+msgid "Are you sure your want to undo your last Design Options Save?"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:46
+msgid "Click "
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:46
+msgid ""
+" to enable the element selector labels, then select and insert elements to "
+"be styled."
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:47
+msgid "Learn:"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:47
+msgid "How To Use The FE CSS Builder"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:48
+msgid "CSS Links: "
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:48
+msgid "Intro"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:48
+msgid "Turorials"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:48
+msgid "References"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:79
+msgid "solid"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:80
+msgid "dotted"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:81
+msgid "dashed"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:82
+msgid "double"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:83
+msgid "groove"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:84
+msgid "ridge"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:85
+msgid "inset"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:86
+msgid "outset"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:180
+msgid "Arial"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:181
+msgid "Arial Black"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:182
+msgid "Courier New"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:183
+msgid "Georgia"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:184
+msgid "Helvetica"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:185
+msgid "Impact"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:186
+msgid "Lucida Console"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:187
+msgid "Lucida Sans Unicode"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:188
+msgid "Tahoma"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:189
+msgid "Times New Roman"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:190
+msgid "Trebuchet MS"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:191
+msgid "Verdana"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:198
+msgid "rem"
+msgstr ""
+
+#: lib/admin/fe-css-builder/fe-css-builder.php:277
+#: lib/admin/fe-css-builder/fe-css-builder.php:281
+msgid "%"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:633
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:650
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:656
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: lib/admin/theme-settings.php:41
+msgid "Dynamik - Theme Settings"
+msgstr ""
+
+#: lib/admin/theme-settings.php:76
+msgid "Theme Settings Reset"
+msgstr ""
+
+#: lib/admin/theme-settings.php:82
+msgid "Reset Theme Settings"
+msgstr ""
+
+#: lib/admin/theme-settings.php:82
+msgid "Are you sure your want to reset your Dynamik Theme Settings?"
+msgstr ""
+
+#: lib/functions/build-styles.php:8587 lib/functions/import-export.php:130
+msgid "Custom Responsive CSS"
+msgstr ""
+
+#: lib/functions/image-uploader.php:69
+msgid "Please select a file to upload."
+msgstr ""
+
+#: lib/functions/image-uploader.php:179
+msgid "Your image has been uploaded."
+msgstr ""
+
+#: lib/functions/image-uploader.php:184
+msgid "This is not a valid filetype.  Valid filetypes are JPG, GIF and PNG."
+msgstr ""
+
+#: lib/functions/image-uploader.php:257
+msgid "Filename:"
+msgstr ""
+
+#: lib/functions/image-uploader.php:259
+msgid "Width:"
+msgstr ""
+
+#: lib/functions/image-uploader.php:261
+msgid "Height:"
+msgstr ""
+
+#: lib/functions/image-uploader.php:263
+msgid "Filesize:"
+msgstr ""
+
+#: lib/functions/image-uploader.php:266
+msgid "Select this image for Bulk Delete"
+msgstr ""
+
+#: lib/functions/image-uploader.php:268 lib/functions/image-uploader.php:290
+#: lib/functions/image-uploader.php:334 lib/functions/image-uploader.php:355
+msgid "Rename Image"
+msgstr ""
+
+#: lib/functions/image-uploader.php:269 lib/functions/image-uploader.php:384
+#: lib/functions/image-uploader.php:456 lib/functions/image-uploader.php:477
+msgid "Delete Image"
+msgstr ""
+
+#: lib/functions/image-uploader.php:292
+msgid "Current Filename:"
+msgstr ""
+
+#: lib/functions/image-uploader.php:294
+msgid "Rename to:"
+msgstr ""
+
+#: lib/functions/image-uploader.php:297 lib/functions/image-uploader.php:389
+msgid "Cancel"
+msgstr ""
+
+#: lib/functions/image-uploader.php:336 lib/functions/image-uploader.php:357
+#: lib/functions/image-uploader.php:458 lib/functions/image-uploader.php:479
+msgid "You did not supply a filename."
+msgstr ""
+
+#: lib/functions/image-uploader.php:337 lib/functions/image-uploader.php:358
+#: lib/functions/image-uploader.php:459 lib/functions/image-uploader.php:480
+msgid "OK"
+msgstr ""
+
+#: lib/functions/image-uploader.php:386
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: lib/functions/navbars.php:16
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: lib/functions/navbars.php:16
+msgid "Secondary Navigation Menu"
+msgstr ""
+
+#: lib/functions/navbars.php:16
+msgid "Responsive Dropdown 1"
+msgstr ""
+
+#: lib/functions/navbars.php:16
+msgid "Responsive Dropdown 2"
+msgstr ""
+
+#: lib/functions/skins.php:35
+msgid "Active:"
+msgstr ""
+
+#: lib/functions/skins.php:37
+msgid ""
+"This will take a snapshot of your currently active Dynamik Skin, overwriting "
+"the current snapshot of this Skin. Click OK to proceed."
+msgstr ""
+
+#: lib/functions/skins.php:37
+msgid "Snapshot"
+msgstr ""
+
+#: lib/functions/skins.php:38
+msgid ""
+"This will restore your currently active Dynamik Skin from your most recent "
+"snapshot. Click OK to proceed."
+msgstr ""
+
+#: lib/functions/skins.php:38
+msgid "Restore"
+msgstr ""
+
+#: lib/functions/skins.php:58
+msgid ""
+"Are you sure you want to activate this Dynamik Skin, as this will de-"
+"activate the currently active Skin? If so, click OK to proceed."
+msgstr ""
+
+#: lib/functions/skins.php:60
+msgid ""
+"Are you sure you want to delete this Dynamik Skin? If so, click OK to "
+"proceed."
+msgstr ""
+
+#: lib/functions/skins.php:124
+msgid "Dynamik Skin Deleted"
+msgstr ""
+
+#: lib/functions/skins.php:180
+msgid "Dynamik Skin Activated"
+msgstr ""
+
+#: lib/functions/skins.php:196
+msgid "Dynamik Skin Restored From Snapshot"
+msgstr ""
+
+#: lib/functions/skins.php:211
+msgid "Dynamik Skin Snapshot Update Complete"
+msgstr ""
+
+#: lib/functions/user-meta.php:21
+msgid "Dynamik Theme Settings"
+msgstr ""
+
+#: lib/functions/user-meta.php:25
+msgid "Dynamik Admin Menus"
+msgstr ""
+
+#: lib/functions/user-meta.php:28
+msgid "Disable Dynamik Settings Submenu?"
+msgstr ""
+
+#: lib/functions/user-meta.php:30
+msgid "Disable Dynamik Design Submenu?"
+msgstr ""
+
+#: lib/functions/user-meta.php:32
+msgid "Disable Dynamik Custom Submenu?"
+msgstr ""
+
+#: lib/functions/user-meta.php:37 lib/update/theme-updater.php:29
+msgid "Dynamik License"
+msgstr ""
+
+#: lib/functions/user-meta.php:40
+msgid "Hide Dynamik License Key?"
+msgstr ""
+
+#: lib/functions/write-files.php:15
+msgid "Dynamik Styles"
+msgstr ""
+
+#: lib/functions/write-files.php:36
+msgid ""
+"This file is auto-generated from the Dynamik Options settings and custom.css "
+"content (if file exists). Any direct edits here will be lost if the settings "
+"page is saved"
+msgstr ""
+
+#: lib/init.php:123
+#, php-format
+msgid ""
+"<strong>Genesis Extender & Dynamik Website Builder Are Currently Active!</"
+"strong> If you are <a href=\"%s\">transferring settings</a> then do so now, "
+"otherwise deactivate <a href=\"%s\">Genesis Extender</a> or <a href=\"%s"
+"\">Dynamik Website Builder</a>."
+msgstr ""
+
+#: lib/init.php:139
+#, php-format
+msgid ""
+"<strong>Genesis Essentials & Dynamik Website Builder Are Currently Active!</"
+"strong> These two Cobalt Apps products are not to be used together so "
+"deactivate <a href=\"%s\">Genesis Essentials</a> or <a href=\"%s\">Dynamik "
+"Website Builder</a>."
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:165
+msgid "You can manage your licenses in your "
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:165
+msgid "\"My Account\" page"
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:244
+msgid "Error"
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:274
+#: lib/update/theme-updater-admin.php:321
+#: lib/update/theme-updater-admin.php:373
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:288
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:295
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:300
+msgid "Invalid license."
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:306
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:311
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: lib/update/theme-updater-admin.php:316
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: lib/update/theme-updater.php:30
+msgid "Enter your Dynamik license key."
+msgstr ""
+
+#: lib/update/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: lib/update/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: lib/update/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: lib/update/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: lib/update/theme-updater.php:35 lib/update/theme-updater.php:48
+msgid "License status is unknown."
+msgstr ""
+
+#: lib/update/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: lib/update/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: lib/update/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: lib/update/theme-updater.php:39
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: lib/update/theme-updater.php:40
+msgid "Lifetime License."
+msgstr ""
+
+#: lib/update/theme-updater.php:41
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: lib/update/theme-updater.php:42
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: lib/update/theme-updater.php:43
+msgid "License key has expired."
+msgstr ""
+
+#: lib/update/theme-updater.php:44
+msgid "License keys do not match."
+msgstr ""
+
+#: lib/update/theme-updater.php:45
+msgid "License is inactive."
+msgstr ""
+
+#: lib/update/theme-updater.php:46
+msgid "License key is disabled."
+msgstr ""
+
+#: lib/update/theme-updater.php:47
+msgid "Site is inactive."
+msgstr ""
+
+#: lib/update/theme-updater.php:49
+msgid ""
+"Updating Dynamik will replace the core theme files (/wp-content/themes/"
+"dynamik-gen/) with the latest version of Dynamik, so any changes to that "
+"directory will be erased. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+#: lib/update/theme-updater.php:50
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: lib/update/update.php:20
+msgid "Click here to complete your Dynamik Update"
+msgstr ""
+
+#: lib/update/update.php:36
+#, php-format
+msgid ""
+"Congratulations! Your update to <strong>Dynamik %s</strong> is complete."
+msgstr ""

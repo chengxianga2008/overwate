@@ -1,0 +1,54 @@
+/**
+ * This file should contain frontend styles that
+ * will be applied to all module instances.
+ */
+
+.bb-ff-input.input-small {
+    width: 46px !important;
+}
+
+.pp-ff-content {
+	position: relative;
+}
+
+.pp-ff-content:before {
+	content: "";
+	display: block;
+	position: absolute;;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.pp-ff-content .pp-form-title,
+.pp-ff-content .pp-form-description {
+	position: relative;
+}
+
+.pp-ff-content .frm_style_formidable-style.with_frm_style {
+    max-width: 100%;
+	position: relative;
+}
+
+tr#fl-field-form_desc td .fl-field-description {
+    display: block;
+    color: #777;
+    margin-top: -15px;
+    margin-bottom: 10px;
+}
+
+.pp-ff-content .frm_style_formidable-style.with_frm_style .form-field .frm_opt_container input[type="text"]:not(.frm_pos_none) {
+    display: inline-block;
+}
+
+.pp-ff-content .frm_style_formidable-style.with_frm_style input[type=submit],
+.pp-ff-content .frm_style_formidable-style.with_frm_style input[type=button],
+.pp-ff-content .frm_style_formidable-style.with_frm_style input[type=reset] {
+    box-shadow: none;
+}
+
+.pp-ff-content .frm_style_formidable-style.with_frm_style .form-field input:not([type='radio']):not([type='checkbox']):not([type='submit']):not([type='button']):not([type='image']):not([type='file']),
+.pp-ff-content .frm_style_formidable-style.with_frm_style .form-field select {
+    height: auto;
+}

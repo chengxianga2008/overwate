@@ -1,0 +1,3 @@
+
+(function($){if($(window).width()<=768&&$(window).width()>=481){$('.fl-node-596dba28c37d2 .pp-heading-separator, .fl-node-596dba28c37d2 .pp-heading').removeClass('pp-left');$('.fl-node-596dba28c37d2 .pp-heading-separator, .fl-node-596dba28c37d2 .pp-heading').addClass('pp-tablet-center');}
+if($(window).width()<=480){$('.fl-node-596dba28c37d2 .pp-heading-separator, .fl-node-596dba28c37d2 .pp-heading').removeClass('pp-left');$('.fl-node-596dba28c37d2 .pp-heading-separator, .fl-node-596dba28c37d2 .pp-heading').addClass('pp-mobile-center');}})(jQuery);

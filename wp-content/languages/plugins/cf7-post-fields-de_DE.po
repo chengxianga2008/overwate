@@ -1,0 +1,328 @@
+# Translation of Plugins - Contact Form 7 &#8211; Post Fields - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; Post Fields - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-06 18:58:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; Post Fields - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "mailto:markusfroehlich01@gmail.com"
+msgstr "mailto:markusfroehlich01@gmail.com"
+
+#. Author of the plugin/theme
+msgid "Markus Froehlich"
+msgstr "Markus Froehlich"
+
+#. Description of the plugin/theme
+msgid "Provides a dynamic post select, radio and checkbox field to your CF7 forms."
+msgstr "Stellt ein dynamisches Beitrags Dropdown-Menü, Kontrollkästchen und Radio-Buttons Feld zu deinen CF7 Formularen bereit."
+
+#. Plugin Name of the plugin/theme
+msgid "Contact Form 7 - Post Fields"
+msgstr "Contact Form 7 - Post Fields"
+
+#: modules/select.php:217
+msgid "Generate a form-tag for a posts drop-down menu."
+msgstr "Erzeuge ein Formular-Tag für ein Beiträge Dropdown-Menü."
+
+#: modules/module.php:458
+msgid "An unknown error occurred"
+msgstr "Ein unbekannter Fehler ist aufgetreten"
+
+#: modules/module.php:373
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: modules/module.php:372
+msgid "Descending"
+msgstr "Absteigend"
+
+#: modules/module.php:370
+msgid "Order"
+msgstr "Reihenfolge"
+
+#: modules/module.php:365
+msgid "None"
+msgstr "Keine"
+
+#: modules/module.php:364
+msgid "Menu order"
+msgstr "Menü-Reihenfolge"
+
+#: modules/module.php:363
+msgid "Random"
+msgstr "Zufällig"
+
+#: modules/module.php:362
+msgid "Author"
+msgstr "Autor"
+
+#: modules/module.php:361
+msgid "Date/Time"
+msgstr "Datum/Zeit"
+
+#: modules/module.php:358
+msgid "Sort order"
+msgstr "Sortierung nach"
+
+#: modules/module.php:353
+msgctxt "post status"
+msgid "Scheduled"
+msgstr "Geplant"
+
+#: modules/module.php:352
+msgctxt "post status"
+msgid "Draft"
+msgstr "Entwurf"
+
+#: modules/module.php:351
+msgctxt "post status"
+msgid "Pending"
+msgstr "Wartend"
+
+#: modules/module.php:350
+msgctxt "post status"
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: modules/module.php:348
+msgid "Status"
+msgstr "Status"
+
+#: modules/module.php:343
+msgid "ID"
+msgstr "ID"
+
+#: modules/module.php:342
+msgid "Permalink"
+msgstr "Permalink"
+
+#: modules/module.php:341
+msgid "Slug"
+msgstr "Titelform"
+
+#: modules/module.php:340 modules/module.php:360
+msgid "Title"
+msgstr "Titel"
+
+#: modules/module.php:338
+msgid "Value field"
+msgstr "Werte Feld"
+
+#: modules/module.php:332
+msgid "Attributes"
+msgstr "Attribute"
+
+#: modules/module.php:327
+msgid "Label format"
+msgstr "Label Format"
+
+#: modules/module.php:321
+msgid "Use pipe-separated term slugs (e.g. united-states|germany|austria) per field."
+msgstr "Mit Pipe-Zeichen getrennte Kategorie Titelformen (z.B. united-states|germany|austria) pro Feld."
+
+#: modules/module.php:315 modules/module.php:451
+msgid "No categories found."
+msgstr "Keine Kategorien gefunden."
+
+#: modules/module.php:310
+msgid "AND"
+msgstr "UND"
+
+#: modules/module.php:309
+msgid "OR"
+msgstr "ODER"
+
+#: modules/module.php:307 modules/module.php:437
+msgid "Relationship"
+msgstr "Beziehung"
+
+#: modules/module.php:293
+msgid "Categories"
+msgstr "Kategorien"
+
+#: modules/module.php:293
+msgctxt "post type singular name"
+msgid "Post"
+msgstr "Beitrag"
+
+#: modules/module.php:280
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: modules/module.php:270
+msgid "Post type"
+msgstr "Inhaltstyp"
+
+#: modules/image-select.php:302
+msgid "Generate a form-tag for a posts image drop-down menu."
+msgstr "Erzeuge ein Formular-Tag für ein Beiträge Bild Dropdown-Menü."
+
+#: modules/image-select.php:295 modules/select.php:210
+msgid "drop-down menu"
+msgstr "Drop-Down-Menü"
+
+#: modules/image-select.php:295 modules/select.php:210
+msgid "posts"
+msgstr "Beiträge"
+
+#: modules/image-select.php:163 modules/image-select.php:391
+#: modules/select.php:124
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Auswählen &mdash;"
+
+#: modules/image-checkbox.php:361 modules/image-checkbox.php:362
+#: modules/image-select.php:295
+msgid "Image"
+msgstr "Bild"
+
+#: modules/generators/image-select.php:79
+msgid "Display a search box on the drop-down menu."
+msgstr "Eine Suchbox beim Dropdown-Menü anzeigen lassen."
+
+#: modules/generators/image-select.php:78 modules/generators/select.php:30
+msgid "Insert a blank item as the first option"
+msgstr "Ein leeres Objekt als die erste Option einfügen"
+
+#: modules/generators/image-select.php:77 modules/generators/select.php:29
+msgid "Allow multiple selections"
+msgstr "Mehrfachselektion erlauben"
+
+#: modules/generators/image-checkbox.php:69
+#: modules/generators/image-select.php:67
+msgid "Use pipe-separated post attributes (e.g. %s|meta_key) per field."
+msgstr "Mit Pipe-Zeichen getrennte Beitrags Attribute (z.B. %s|meta_key) pro Feld."
+
+#: modules/generators/image-checkbox.php:64
+#: modules/generators/image-select.php:62
+msgid "Metadata"
+msgstr "Metadaten"
+
+#: modules/generators/image-checkbox.php:58
+#: modules/generators/image-select.php:56
+msgid "Define the number of words for the excerpt. Default \"55\"."
+msgstr "Definiere die Anzahl der Wörter für den Auszug. Standard \"55\"."
+
+#: modules/generators/image-checkbox.php:53
+#: modules/generators/image-select.php:51
+msgid "Excerpt Lenght"
+msgstr "Auszugs Länge"
+
+#: modules/generators/image-checkbox.php:46
+#: modules/generators/image-select.php:44
+msgid "Height"
+msgstr "Höhe"
+
+#: modules/generators/image-checkbox.php:43
+#: modules/generators/image-select.php:41
+msgid "Width"
+msgstr "Breite"
+
+#: modules/generators/image-checkbox.php:40
+#: modules/generators/image-select.php:38
+msgid "Custom Structure"
+msgstr "Individuelle Strukturen"
+
+#: modules/generators/image-checkbox.php:27
+#: modules/generators/image-select.php:25
+msgid "Image sizes"
+msgstr "Bildgröße"
+
+#: modules/generators/checkbox.php:64 modules/generators/image-checkbox.php:112
+#: modules/generators/image-select.php:108 modules/generators/select.php:59
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr "Um die Werteingabe über dieses Feld in einem E-Mail-Feld zu verwenden, musst du das zugehörige E-Mail-Tag (%s) in das Feld des E-Mail-Tabs einsetzen."
+
+#: modules/generators/checkbox.php:59 modules/generators/image-checkbox.php:107
+#: modules/generators/image-select.php:103 modules/generators/select.php:54
+msgid "Insert Tag"
+msgstr "Schlagwort einfügen"
+
+#: modules/generators/checkbox.php:46 modules/generators/image-checkbox.php:94
+#: modules/generators/image-select.php:90 modules/generators/select.php:41
+msgid "Class attribute"
+msgstr "Attribut „class“"
+
+#: modules/generators/checkbox.php:41 modules/generators/image-checkbox.php:89
+#: modules/generators/image-select.php:85 modules/generators/select.php:36
+msgid "Id attribute"
+msgstr "Attribut „id“"
+
+#: modules/generators/checkbox.php:34 modules/generators/image-checkbox.php:82
+msgid "Make checkboxes exclusive"
+msgstr "Kontrollkästchen exklusiv machen"
+
+#: modules/generators/checkbox.php:32 modules/generators/image-checkbox.php:80
+msgid "Wrap each item with label element"
+msgstr "Jeden Eintrag mit Beschreibung umfassen"
+
+#: modules/generators/checkbox.php:31 modules/generators/image-checkbox.php:79
+msgid "Put a label first, a checkbox last"
+msgstr "Beschriftung vorne, Kontrollkästchen hinten"
+
+#: modules/generators/checkbox.php:27 modules/generators/checkbox.php:30
+#: modules/generators/image-checkbox.php:75
+#: modules/generators/image-checkbox.php:78
+#: modules/generators/image-select.php:73
+#: modules/generators/image-select.php:76 modules/generators/select.php:25
+#: modules/generators/select.php:28
+msgid "Options"
+msgstr "Optionen"
+
+#: modules/generators/checkbox.php:20 modules/generators/image-checkbox.php:20
+#: modules/generators/image-select.php:18 modules/generators/select.php:18
+msgid "Name"
+msgstr "Name"
+
+#: modules/generators/checkbox.php:13 modules/generators/image-checkbox.php:13
+#: modules/generators/image-select.php:12 modules/generators/select.php:12
+msgid "Required field"
+msgstr "Pflichtfeld"
+
+#: modules/generators/checkbox.php:9 modules/generators/checkbox.php:12
+#: modules/generators/image-checkbox.php:9
+#: modules/generators/image-checkbox.php:12
+#: modules/generators/image-select.php:8 modules/generators/image-select.php:11
+#: modules/generators/select.php:8 modules/generators/select.php:11
+msgid "Field type"
+msgstr "Feld-Typ"
+
+#: modules/checkbox.php:310 modules/image-checkbox.php:378
+msgid "Generate a form-tag for a group of post radio buttons."
+msgstr "Erzeuge ein Formular-Tag für eine Gruppe von Beitrags Radio-Buttons."
+
+#: modules/checkbox.php:308 modules/image-checkbox.php:376
+msgid "Generate a form-tag for a group of post checkboxes."
+msgstr "Erzeuge ein Formular-Tag für eine Gruppe von Beitrags Kontrollkästchen."
+
+#: modules/checkbox.php:294 modules/image-checkbox.php:362
+msgid "radio buttons"
+msgstr "Radio-Buttons"
+
+#: modules/checkbox.php:293 modules/image-checkbox.php:361
+msgid "checkboxes"
+msgstr "Kontrollkästchen"
+
+#: modules/checkbox.php:293 modules/checkbox.php:294
+#: modules/image-checkbox.php:361 modules/image-checkbox.php:362
+msgid "Post"
+msgstr "Beitrag"
+
+#: includes/class-required-plugin-checker.php:102
+msgid "The plugin %1$s has been <strong>deactivated</strong> due to an error: %2$s"
+msgstr "Das Plugin %1$s wurde wegen eines Fehlers <strong>deaktiviert</strong>: %2$s"
+
+#: includes/class-required-plugin-checker.php:90
+#: includes/class-required-plugin-checker.php:94
+msgid "Plugin <strong>deactivated</strong>."
+msgstr "Plugin <strong>deaktiviert</strong>."
+
+#: cf7-post-fields.php:124
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Ein Fehler ist aufgetreten. Bitte lade die Seite neu und versuche es nochmal."

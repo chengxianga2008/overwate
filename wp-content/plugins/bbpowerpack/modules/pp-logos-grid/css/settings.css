@@ -1,0 +1,21 @@
+/**
+ * This file should contain admin styles that
+ * will be applied to the module settings forms.
+ */
+
+.pp-logos-content .logo-slider-prev, .pp-logos-content .logo-slider-next {
+    position: absolute;
+    top: 30%;
+    left: -6px;
+}
+
+.pp-logos-content .logo-slider-next {
+    right: -6px;
+    left: auto;
+}
+
+.pp-logos-content .logo-slider-prev a, .pp-logos-content .logo-slider-next a {
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+}
